@@ -1,6 +1,7 @@
 # Scraping-bike-specifications-using-Scrapy
 The goal is to scrape contents from a website using Scrapy and to save the scraped data in a csv file.
 This project contains python script to scrape bike's specifications from [carandbike](https://www.carandbike.com/new-bikes/models) website.
+- You can find the python script in scrape_bikes/spiders/bike.py
 
 ## PRE-REQUISITES
 #### 1.Anaconda Navigator 
