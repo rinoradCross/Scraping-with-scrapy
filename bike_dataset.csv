@@ -1,0 +1,344 @@
+name,price,mileage,kerb_weight,length,width,height,wheel_base,ground_clearance,seat_height,engine_cc,num_cylinder,max_power,max_torque,valves,fuel_delivery,starting_mech,num_gears,wheel_size,battery
+Hero Splendor Plus,"66,943 ",70 Kmpl,110 kg,1970 mm,720 mm,1040 mm,1230 mm,159 mm,785 mm,97.2 cc,1,7.91 bhp @ 8000 rpm,8.05 Nm @ 6000 rpm,2,Fuel-Injection ,Kick Start ,4 Gears,18 inches,12V- 3 Ah MF 
+Hero HF Deluxe,"53,754 ",83 Kmpl,109 kg,1965 mm,720 mm,1045 mm,1235 mm,165 mm,805 mm,97.2 cc,1,7.94 bhp @ 8000 rpm,8.05 Nm @ 6000 rpm,2,Fuel Injected ,Kick Start ,4 Gears,18 inches,"12 V - 3 Ah , MF Battery "
+Honda SP 125,"81,617 ",65 Kmpl,117 kg,2020 mm,785 mm,1103 mm,1285 mm,160 mm,790 mm,124 cc,1,10.7 bhp @ 7500 rpm,10.9 Nm @ 6000 rpm,4,PGM-FI ,Self / Kick ,5 Gears,18 inches,"12V, 5.0Ah "
+Honda CB Unicorn 160,1.04 Lakh,62 Kmpl,134 kg,2045 mm,757 mm,1062 mm,1324 mm,150 mm,N/A,162.7 cc,1,13.82 bhp @ 8000 rpm,13.92 Nm @ 6000 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,17 inches,12V 4Ah 
+Hero HF Deluxe i3s,"64,833 ",88.5 Kmpl,110 kg,1965 mm,720 mm,1045 mm,1235 mm,165 mm,805 mm,97.2 cc,1,8.24 bhp @ 8000 rpm,8.05 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,"12 V - 3 Ah , MF Battery "
+Royal Enfield Bullet 350,1.35 Lakh,45 Kmpl,183 kg,2170 mm,810 mm,1120 mm,1395 mm,135 mm,800 mm,346 cc,1,19.1 bhp @ 5250 rpm,28 Nm @ 4000 rpm,2,Fuel Injection ,Kick Start ,5 Gears,19 inches,"12 volt, 5 Ah "
+Kawasaki Ninja 300,3.16 Lakh,26 Kmpl,179 kg,2015 mm,715 mm,1110 mm,1405 mm,135 mm,785 mm,296 cc,2,38 bhp @ 11000 rpm,27 Nm @ 10000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+KTM RC 200,2.16 Lakh,35 Kmpl,137 kg,1978 mm,688 mm,834 mm,1340 mm,178 mm,820 mm,199.5 cc,1,25 bhp @ 10000 rpm,19.2 Nm @ 8000 rpm,4,Fuel Injection System ,Self Start ,6 Gears,17 inches,12V/8Ah 
+TVS Ntorq 125,"75,263 ",60 Kmpl,118 kg,1865 mm,710 mm,1160 mm,1285 mm,155 mm,N/A,124.8 cc,1,9.1 bhp @ 7000 rpm,10.5 Nm @ 5500 rpm,3,Carburetor ,Self / Kick Start ,N/A,12 inches,"12 V, 4Ah MF "
+Kawasaki Ninja H2R,80.39 Lakh,15 Kmpl,216 kg,2070 mm,851 mm,1161 mm,1450 mm,130 mm,831 mm,998 cc,4,322 bhp @ 14000 rpm,165 Nm @ 12500 rpm,4,Fuel injection: ø50 mm x 4 with dual injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Honda Dio,"67,994 ",55 Kmpl,107 kg,1808 mm,723 mm,1150 mm,1260 mm,160 mm,650 mm,109.2 cc,1,8 bhp @ 8000 rpm,9 Nm @ 4750 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,10 inches,12V 3Ah (MF) 
+Hero Passion Pro i3S,"71,681 ",84 Kmpl,115 kg,1980 mm,765 mm,1075 mm,1235 mm,165 mm,795 mm,110 cc,1,9.02 bhp @ 7500 rpm,9.79 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12V - 3 Ah (MF Battery) 
+Bajaj Pulsar 150,"99,128 ",65 Kmpl,144 kg,2055 mm,755 mm,1060 mm,1320 mm,165 mm,785 mm,149 cc,1,13.8 bhp @ 8000 rpm,13.4 Nm @ 6000 rpm,2,Fuel injection ,Self / Kick Start ,5 Gears,17 inches,12 V Full DC 
+Yamaha FZ S V3.0 FI,1.1 Lakh,N/A,148 kg,1990 mm,780 mm,1080 mm,1330 mm,165 mm,790 mm,149 cc,1,12.2 bhp @ 7250 rpm,13.6 Nm @ 5500 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,12V 
+Honda CB Shine SP,"71,042 ",65 Kmpl,120 kg,2007 mm,762 mm,1085 mm,1266 mm,160 mm,N/A,124.7 cc,1,10.16 bhp @ 7500 rpm,10.3 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,18 inches,12V 3Ah (MF) 
+Hero Super Splendor,"74,118 ",60 Kmpl,123 kg,2042 mm,740 mm,1102 mm,1273 mm,180 mm,785 mm,124.7 cc,1,10.73 bhp @ 7500 rpm,10.6 Nm @ 6000 rpm,2,Fuel Injection ,Self / Kick Start ,4 Gears,18 inches,12 V 3Ah MF 
+Honda Activa 5G,"61,036 ",45 Kmpl,109 kg,1761 mm,710 mm,1158 mm,1238 mm,153 mm,765 mm,109.2 cc,1,8 bhp @ 7500 rpm,9 Nm @ 5500 rpm,2,Carburetor ,Self/ Kick Start ,N/A,10 inches,12V 3Ah (MF) 
+TVS Apache RTR 160 4V,1.14 Lakh,30 Kmpl,143 kg,2050 mm,790 mm,1050 mm,1357 mm,180 mm,800 mm,159.7 cc,1,16.28 bhp @ 8000 rpm,14.8 Nm @ 6500 rpm,4,Fuel Injection ,Self/ Kick Start ,5 Gears,17 inches,"12V, 9Ah "
+Yamaha Fascino,"61,629 ",66 Kmpl,103 kg,1815 mm,675 mm,1120 mm,1270 mm,130 mm,775 mm,113 cc,1,7 bhp @ 7500 rpm,8.1 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,N/A,10 inches,"12V, 5 AH(10 H) "
+UM Motorcycles Renegade Commando,1.74 Lakh,35 Kmpl,179 kg,2257 mm,780 mm,1140 mm,1545 mm,200 mm,750 mm,279.5 cc,1,24.8 bhp @ 8500 rpm,23 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Yamaha FZ25,1.65 Lakh,43 Kmpl,153 kg,2015 mm,775 mm,1075 mm,1360 mm,160 mm,795 mm,249 cc,1,20.5 bhp @ 8000 rpm,20.1 Nm @ 6000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,12 V 6.0 Ah 
+TVS Jupiter,"70,216 ",62 Kmpl,109 kg,1834 mm,678 mm,1286 mm,1275 mm,150 mm,765 mm,109.7 cc,1,7.3 bhp @ 7000 rpm,8 Nm @ 5000 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,12 inches,"12V, 5 Ah Flooded "
+Yamaha Fascino 125,"74,044 ",66 Kmpl,99 kg,1920 mm,685 mm,1150 mm,1280 mm,145 mm,N/A,125 cc,1,6500 bhp @ 8 rpm,9.7 Nm @ 5000 rpm,2,Fuel Injection ,Self Start/Kick Start ,N/A,10 inches,"Maintenance free - 12V,5.0 Ah "
+Hero XPulse 200T,1.05 Lakh,43 Kmpl,150 kg,2120 mm,807 mm,1090 mm,1392 mm,177 mm,799 mm,199.6 cc,1,18 bhp @ 8000 rpm,17.1 Nm @ 6500 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,17 inches,12 V - 4 Ah (MF Battery) 
+Honda Livo,"77,027 ",74 Kmpl,115 kg,2020 mm,751 mm,1116 mm,1278 mm,163 mm,790 mm,109.5 cc,1,8.67 bhp @ 7500 rpm,9.3 Nm @ 5500 rpm,2,Fuel Injection ,Self / Kick Start ,4 Gears,18 inches,12V 5Ah 
+Honda Hornet 2.0,1.37 Lakh,40 Kmpl,142 kg,2047 mm,783 mm,1064 mm,1355 mm,167 mm,590 mm,184.4 cc,1,17.03 bhp @ 8500 rpm,16.1 Nm @ 6000 rpm,N/A,Fuel Injection ,Self Start ,5 Gears,17 inches,"12V, 5.0 Ah "
+TVS Apache RTR 160,1.05 Lakh,48 Kmpl,139 kg,2085 mm,730 mm,1105 mm,1300 mm,180 mm,790 mm,159.7 cc,1,15 bhp @ 8400 rpm,13.9 Nm @ 7000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"12V, 9 Ah "
+Bajaj CT 100,"46,149 ",89.5 Kmpl,114 kg,1945 mm,752 mm,1072 mm,1235 mm,170 mm,678 mm,99.3 cc,1,7.77 bhp @ 7500 rpm,8.34 Nm @ 5500 rpm,1,Electronic Injection ,Kick Start ,4 Gears,17 inches,"12V, 35/35W, HS1 "
+Bajaj Platina 110,"66,206 ",80 Kmpl,108 kg,2006 mm,840 mm,1100 mm,1255 mm,200 mm,N/A,115 cc,1,8.4 bhp @ 7000 rpm,9.81 Nm @ 5000 rpm,2,Electronic Injection ,Electric Start ,5 Gears,17 inches,12V 
+Hero Xtreme 160R,1.1 Lakh,N/A,139 kg,2029 mm,793 mm,1052 mm,1327 mm,167 mm,790 mm,163 cc,1,15 bhp @ 8500 rpm,14 Nm @ 6500 rpm,2,Advanced Programmed Fuel Injection ,Self/Kick ,5 Gears,17 inches,N/A
+Hero Pleasure,"49,452 ",63 Kmpl,101 kg,1750 mm,705 mm,1115 mm,1240 mm,125 mm,760 mm,102 cc,1,6.9 bhp @ 7000 rpm,8.1 Nm @ 5000 rpm,2,Carburetor ,Self Start ,N/A,10 inches,12V - 4 Ah MF Battery 
+Yamaha R15 V3.0,1.62 Lakh,30 Kmpl,142 kg,1990 mm,725 mm,1135 mm,1325 mm,170 mm,815 mm,155 cc,1,18.3 bhp @ 10000 rpm,14.1 Nm @ 8500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,"12 V, 4.0 Ah(10 HR) "
+Royal Enfield Thunderbird 350X,1.78 Lakh,35 Kmpl,195 kg,2040 mm,830 mm,1140 mm,1350 mm,135 mm,N/A,346 cc,1,19.8 bhp @ 5250 rpm,28 Nm @ 4000 rpm,2,Constant Vacuum Carburetor ,Self / Kick Start ,5 Gears,19 inches,Maintenance Free 
+Hero Glamour Programmed FI,"71,229 ",86 Kmpl,127 kg,2023 mm,766 mm,1091 mm,1262 mm,159 mm,790 mm,124.7 cc,1,11.5 bhp @ 7500 rpm,11 Nm @ 6000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,4 Gears,18 inches,12 V - 3 Ah (MF4) 
+Honda CD 110 Dream,"71,169 ",74 Kmpl,109 kg,2044 mm,736 mm,1076 mm,1285 mm,162 mm,790 mm,109.5 cc,1,9 bhp @ 7500 rpm,9.3 Nm @ 5500 rpm,2,Fuel Injection ,Self / Kick Start ,4 Gears,18 inches,"12V, 5Ah "
+TVS Star City Plus,"68,229 ",86 Kmpl,116 kg,1980 mm,750 mm,1080 mm,1260 mm,172 mm,785 mm,109.7 cc,1,8 bhp @ 7350 rpm,8.7 Nm @ 4500 rpm,2,Fuel Injection ,Kick / Self Start ,4 Gears,17 inches,12V 4Ah MF 
+Hero Karizma ZMR,1.15 Lakh,35 Kmpl,157 kg,2100 mm,805 mm,1190 mm,1360 mm,145 mm,810 mm,223 cc,1,20 bhp @ 8000 rpm,19.7 Nm @ 6500 rpm,2,Gasoline Fuel Injection System ,Self Start ,5 Gears,18 inches,"12 V - 7 Ah, MF Battery "
+Husqvarna Vitpilen 250,1.95 Lakh,35 Kmpl,152 kg,2090 mm,700 mm,1130 mm,N/A,145 mm,835 mm,248.8 cc,1,31 bhp @  rpm,N/A,4,Fuel Injection ,Self Start ,6 Gears,17 inches,12V/8Ah 
+Hero XPulse 200,1.23 Lakh,42 Kmpl,157 kg,2222 mm,850 mm,1258 mm,1410 mm,220 mm,823 mm,199.6 cc,1,17.8 bhp @ 8500 rpm,16.45 Nm @ 6500 rpm,2,Advanced Programmed Fuel Injection ,Self / Kick Start ,5 Gears,18 inches,12 V - 4 Ah (MF Battery) 
+Hero Passion Xpro,"63,751 ",60 Kmpl,117 kg,1966 mm,774 mm,1087 mm,1245 mm,165 mm,790 mm,109.2 cc,1,9.38 bhp @ 7500 rpm,9 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12 V - 3 Ah (MF Battery) 
+Hero Destini 125,"72,546 ",54 Kmpl,113 kg,1809 mm,729 mm,1154 mm,1245 mm,155 mm,770 mm,124.6 cc,1,9 bhp @ 7000 rpm,10.4 Nm @ 5500 rpm,N/A,Fuel Injection ,Self Start / Kick Start ,N/A,10 inches,12 V - 4 Ah ETZ5 MF Battery 
+Hero Splendor iSMART 110,"59,745 ",75 Kmpl,115 kg,2015 mm,770 mm,1055 mm,1245 mm,165 mm,N/A,109.2 cc,1,9.3 bhp @ 7500 rpm,9 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,MF4 3Ah 
+Bajaj Pulsar RS 200,1.54 Lakh,35 Kmpl,165 kg,1999 mm,765 mm,1114 mm,1355 mm,157 mm,810 mm,199.5 cc,1,24.16 bhp @ 9750 rpm,18.6 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,12 V Full DC MF 
+KTM RC 125,1.71 Lakh,41.3 Kmpl,135 kg,1978 mm,688 mm,834 mm,1340 mm,178 mm,820 mm,124.7 cc,1,14.3 bhp @ 9250 rpm,12 Nm @ 8000 rpm,2,Fuel Injection ,Electric starter ,6 Gears,N/A,N/A
+KTM 200 Duke,1.88 Lakh,35 Kmpl,159 kg,2072 mm,831 mm,1109 mm,1357 mm,155 mm,823 mm,199.5 cc,1,25 bhp @ 10000 rpm,19.3 Nm @ 8000 rpm,4,Fuel Injection System ,Self Start ,6 Gears,17 inches,12V 
+Honda X-Blade,1.17 Lakh,45 Kmpl,143 kg,2013 mm,786 mm,1115 mm,1347 mm,160 mm,N/A,162.7 cc,1,13.67 bhp @ 8000 rpm,14.7 Nm @ 5500 rpm,2,PGM-FI ,Self / Kick Start ,5 Gears,17 inches,12V 4Ah (MF) 
+JAWA Forty Two,1.79 Lakh,37.5 Kmpl,170 kg,2122 mm,789 mm,1165 mm,1369 mm,N/A,N/A,293 cc,1,27 bhp @  rpm,28 Nm @  rpm,4,Fuel Injection ,Self Start ,6 Gears,18 inches,N/A
+Honda CB Unicorn 150,"86,600 ",65 Kmpl,145 kg,2092 mm,756 mm,1100 mm,1336 mm,179 mm,785 mm,149.2 cc,1,12.73 bhp @ 8000 rpm,12.8 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,18 inches,12V 7Ah 
+Bajaj Pulsar 180,1.18 Lakh,45 Kmpl,147 kg,2035 mm,765 mm,1165 mm,1350 mm,150 mm,790 mm,178.6 cc,1,16.78 bhp @ 8500 rpm,14.52 Nm @ 6500 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,12 V Full DC 
+Yamaha Cygnus Ray ZR,"61,299 ",66 Kmpl,105 kg,1820 mm,690 mm,1115 mm,1270 mm,130 mm,775 mm,113 cc,1,7.1 bhp @ 7500 rpm,8.1 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,N/A,10 inches,"12V,5.0Ah(10H) "
+Hero Achiever,"70,383 ",50 Kmpl,139 kg,2060 mm,763 mm,1086 mm,1290 mm,160 mm,800 mm,149.1 cc,1,13.4 bhp @ 8000 rpm,12.8 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,18 inches,12V - 5Ah Maintenance Free  
+TVS Apache RR 310,2.59 Lakh,30 Kmpl,170 kg,2001 mm,786 mm,1135 mm,1365 mm,180 mm,810 mm,312.2 cc,1,34 bhp @ 9700 rpm,27.3 Nm @ 7700 rpm,4,Fuel Injection: Bosch - Closed loop ,Self Start ,6 Gears,17 inches,"12V, 8Ah "
+BMW S 1000 RR,19.72 Lakh,17 Kmpl,197 kg,2050 mm,826 mm,1140 mm,1423 mm,120 mm,815 mm,999 cc,4,204 bhp @ 13500 rpm,113 Nm @ 10500 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,"12 V / 7 Ah, Maintenance Free "
+Yamaha Ray-ZR 125FI,"73,825 ",66 Kmpl,99 kg,1880 mm,685 mm,1190 mm,1280 mm,145 mm,785 mm,125 cc,1,8 bhp @ 6500 rpm,9.7 Nm @ 5000 rpm,2,Fuel Injection ,Self Start/Kick Start ,N/A,10 inches,N/A
+Honda Grazia,"81,095 ",54 Kmpl,107 kg,1829 mm,707 mm,1167 mm,1260 mm,171 mm,708 mm,124 cc,1,8 bhp @ 6000 rpm,10.3 Nm @ 5000 rpm,2,Programmed Fuel Injection (PGM-FI) ,Self / Kick Start ,N/A,12 inches,"12V, 5.0 Ah "
+Suzuki Access 125,"64,500 ",64 Kmpl,101 kg,1870 mm,655 mm,1160 mm,1265 mm,160 mm,773 mm,124 cc,1,8.58 bhp @ 7000 rpm,10.2 Nm @ 5000 rpm,2,Carburettor ,Self / Kick Start ,N/A,12 inches,"12V, 3Ah Maintenance Free "
+Royal Enfield Interceptor 650,2.82 Lakh,25.5 Kmpl,202 kg,2122 mm,789 mm,1165 mm,1400 mm,174 mm,804 mm,648 cc,2,47 bhp @ 7250 rpm,52 Nm @ 5250 rpm,4,Electronic Fuel Injection ,Electric Start ,6 Gears,18 inches,"12V, 12AH VRLA "
+Kawasaki Ninja ZX-10R,14.94 Lakh,15 Kmpl,206 kg,2085 mm,740 mm,1145 mm,1440 mm,145 mm,835 mm,998 cc,4,213 bhp @ 13500 rpm,114.9 Nm @ 11200 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Suzuki GSX-S750,8.03 Lakh,20 Kmpl,215 kg,2125 mm,785 mm,1055 mm,1455 mm,135 mm,820 mm,749 cc,4,113 bhp @ 10500 rpm,81 Nm @ 9500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+TVS Radeon,"66,355 ",69 Kmpl,116 kg,2025 mm,705 mm,1080 mm,1265 mm,180 mm,N/A,109.7 cc,1,8.08 bhp @ 7350 rpm,8.7 Nm @ 4500 rpm,2,Eco-Thrust Fuel Injection ,Self And Kick Start ,4 Gears,18 inches,12V - 4Ah Maintenance Free (MF) 
+Bajaj Dominar 250,1.8 Lakh,35 Kmpl,180 kg,2156 mm,836 mm,1112 mm,1453 mm,157 mm,N/A,248.8 cc,1,26.6 bhp @ 8500 rpm,23.5 Nm @ 6500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,"12V, 8Ah VRLA "
+Hero Xtreme 200S,1.1 Lakh,36.9 Kmpl,149 kg,2062 mm,778 mm,1106 mm,1337 mm,165 mm,795 mm,199.6 cc,1,18.1 bhp @ 8000 rpm,17.1 Nm @ 6500 rpm,2,Carburetor ,Self / Kick Start ,5 Gears,17 inches,12 V - 4 Ah (MF Battery) 
+KTM RC 390,2.67 Lakh,35 Kmpl,147 kg,1978 mm,688 mm,1098 mm,1340 mm,178 mm,820 mm,373.2 cc,1,44 bhp @ 9000 rpm,36 Nm @ 7000 rpm,4,Fuel Injection System ,Self Start ,6 Gears,17 inches,12V/8Ah 
+BMW G 310 R,3.22 Lakh,30 Kmpl,158 kg,2005 mm,820 mm,1080 mm,1380 mm,N/A,785 mm,313 cc,1,34 bhp @ 9500 rpm,28 Nm @ 7500 rpm,4,"Electronic Fuel Injection, BMS-E2 ",Self Start ,6 Gears,17 inches,"12V / 8Ah, Maintenance Free "
+Royal Enfield Thunderbird 350,1.71 Lakh,45 Kmpl,195 kg,2060 mm,790 mm,1205 mm,1350 mm,135 mm,775 mm,346 cc,1,19.8 bhp @ 5250 rpm,28 Nm @ 4000 rpm,2,"29mm, Constant Vacuum Carburettor ",Self / Kick Start ,5 Gears,19 inches,"12 Volt, 8Ah "
+Piaggio Vespa,"99,646 ",45 Kmpl,114 kg,1770 mm,690 mm,1140 mm,1290 mm,155 mm,770 mm,125 cc,1,9.78 bhp @ 7500 rpm,9.6 Nm @ 5500 rpm,3,Fuel Injection ,Self / Kick Start ,N/A,11 inches,Maintenance Free 
+Bajaj CT 110,"52,078 ",104 Kmpl,117 kg,1945 mm,752 mm,1072 mm,1235 mm,170 mm,N/A,115 cc,1,8.4 bhp @ 7000 rpm,9.81 Nm @ 5000 rpm,2,Electronic Injection ,Electric Start ,4 Gears,17 inches,12V 
+Royal Enfield Continental GT 650,2.99 Lakh,25.5 Kmpl,198 kg,2122 mm,744 mm,1024 mm,1400 mm,174 mm,804 mm,648 cc,2,47 bhp @ 7250 rpm,52 Nm @ 5250 rpm,2,Electronic Fuel Injection ,Electric Start ,6 Gears,18 inches,"12V, 12AH VRLA "
+Honda Aviator,"62,305 ",49 Kmpl,106 kg,1802 mm,703 mm,1162 mm,1256 mm,145 mm,790 mm,109.2 cc,1,8 bhp @ 7000 rpm,8.94 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,N/A,12 inches,12V 3Ah (MF) 
+KTM 125 Duke,1.49 Lakh,34.5 Kmpl,148 kg,1993 mm,789 mm,1083 mm,1366 mm,155 mm,818 mm,124.7 cc,1,14.5 bhp @ 9250 rpm,12 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,N/A
+Yamaha Alpha,"58,541 ",66 Kmpl,104 kg,1795 mm,675 mm,1124 mm,1270 mm,128 mm,775 mm,113 cc,1,7 bhp @ 7500 rpm,8.1 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,N/A,10 inches,"12 V, 5 AH (10 HR) "
+Hero Duet,"50,668 ",63.8 Kmpl,116 kg,1830 mm,726 mm,1139 mm,1245 mm,155 mm,770 mm,110.9 cc,1,8 bhp @ 7500 rpm,8.7 Nm @ 5500 rpm,2,Carburetor ,Self Start ,N/A,10 inches,12V - 4Ah (MF Battery) 
+Suzuki Gixxer SF,1.37 Lakh,47 Kmpl,146 kg,2050 mm,715 mm,1035 mm,1340 mm,165 mm,795 mm,154.9 cc,1,13.4 bhp @ 8000 rpm,13.8 Nm @ 6000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"Maintenance Free 12V, 3Ah "
+Yamaha YZF R1,19.24 Lakh,20 Kmpl,200 kg,2055 mm,690 mm,1150 mm,1405 mm,130 mm,855 mm,998 cc,4,197.3 bhp @ 13500 rpm,112.4 Nm @ 11500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,"12V, 8.6AH(10H) "
+Honda Dream Yuga,"60,629 ",72 Kmpl,109 kg,2022 mm,733 mm,1095 mm,1285 mm,179 mm,820 mm,109.2 cc,1,8.31 bhp @ 7500 rpm,9.09 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12V 3Ah (MF) 
+Royal Enfield Classic Desert Storm,1.93 Lakh,35 Kmpl,194 kg,2140 mm,790 mm,1090 mm,1360 mm,135 mm,800 mm,499 cc,1,27.2 bhp @ 5250 rpm,41.3 Nm @ 4000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,5 Gears,19 inches,"12 Volt, 14 Ah "
+Bajaj Avenger Street 160,1.06 Lakh,45 Kmpl,156 kg,2210 mm,806 mm,1070 mm,1490 mm,169 mm,N/A,160.3 cc,1,15 bhp @ 8500 rpm,13.7 Nm @ 7000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"12V, 4Ah, VRLA "
+Hero Passion Pro 110,"62,588 ",84 Kmpl,117 kg,1962 mm,720 mm,1087 mm,1235 mm,165 mm,780 mm,109 cc,1,9.3 bhp @ 7500 rpm,9 Nm @ 5500 rpm,2,Carburetor ,Self (with i3s) & Kick Start ,4 Gears,18 inches,12V - 3Ah (MF-4 Battery) 
+Mahindra Centuro,"57,904 ",85.4 Kmpl,126 kg,2031 mm,735 mm,1111 mm,1265 mm,173 mm,800 mm,106.7 cc,1,8.4 bhp @ 7500 rpm,8.5 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12V / 6 Ah (maintenance Free) 
+Hero Glamour,"65,020 ",60 Kmpl,129 kg,2005 mm,735 mm,1070 mm,1265 mm,150 mm,790 mm,124.7 cc,1,9 bhp @ 7000 rpm,10.35 Nm @ 4000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,"12V- 3Ah, MF Battery "
+Honda Activa 125 FI,"75,908 ",45 Kmpl,111 kg,1850 mm,707 mm,1170 mm,1260 mm,169 mm,712 mm,124 cc,1,8.1 bhp @ 6500 rpm,10.3 Nm @ 5000 rpm,2,PGM-Fi ,Kick / Self ,N/A,12 inches,5.0 Ah 
+TVS Apache RTR 200 4V,1.35 Lakh,32 Kmpl,149 kg,2050 mm,790 mm,1105 mm,1353 mm,180 mm,800 mm,197.8 cc,1,20.2 bhp @ 8500 rpm,16.8 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,5 Gears,17 inches,"12V, 9Ah "
+Bajaj Chetak,1.07 Lakh,95 Km/Full Charge,100 kg,1970 mm,745 mm,1145 mm,N/A,170 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3kWh 
+Husqvarna Svartpilen 250,1.93 Lakh,35 Kmpl,154 kg,2050 mm,730 mm,810 mm,1357 mm,145 mm,835 mm,248.8 cc,1,29.5 bhp @ 9000 rpm,24 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,12V/8Ah 
+Benelli Imperiale 400,2.1 Lakh,N/A,205 kg,2170 mm,820 mm,1120 mm,1440 mm,165 mm,780 mm,374 cc,1,20.7 bhp @ 6000 rpm,29 Nm @ 3500 rpm,4,Fuel Injection ,Self Start ,5 Gears,18 inches,N/A
+Hero Electric Flash,"40,240 ",50 Km/Full Charge,87 kg,1970 mm,745 mm,1145 mm,810 mm,165 mm,774 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16 inches,48V/20Ah 
+Royal Enfield Thunderbird 500X,2.39 Lakh,30 Kmpl,197 kg,2040 mm,830 mm,1140 mm,1350 mm,135 mm,N/A,499 cc,1,27.2 bhp @ 5250 rpm,41.3 Nm @ 4000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,5 Gears,19 inches,Maintenance Free 
+Hyosung GT250R,3.66 Lakh,30 Kmpl,188 kg,2090 mm,700 mm,1130 mm,1435 mm,155 mm,830 mm,249 cc,2,28 bhp @ 10000 rpm,22.07 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,5 Gears,17 inches,12V /10 Ah 
+Yamaha FZ V3.0 FI,1.08 Lakh,N/A,137 kg,1990 mm,780 mm,1080 mm,1330 mm,165 mm,790 mm,149 cc,1,12.2 bhp @ 7250 rpm,13.6 Nm @ 5500 rpm,2,Fuel Injection ,Electric Starter ,5 Gears,17 inches,12V 
+Suzuki Gixxer,1.25 Lakh,64 Kmpl,140 kg,2020 mm,800 mm,1035 mm,1335 mm,160 mm,795 mm,154.9 cc,1,13.9 bhp @ 8000 rpm,14 Nm @ 6000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"Maintenance free 12V, 3Ah "
+Yamaha RAY Z,"57,637 ",43 Kmpl,104 kg,1835 mm,675 mm,1090 mm,1270 mm,128 mm,760 mm,113 cc,1,7 bhp @ 7500 rpm,8.1 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,N/A,10 inches,"12V, 5 AH(10 H) "
+KTM 390 Duke,2.81 Lakh,35 Kmpl,167 kg,2072 mm,831 mm,1109 mm,1357 mm,151 mm,823 mm,373.2 cc,1,43 bhp @ 9000 rpm,37 Nm @ 7000 rpm,4,Fuel Injection System ,Self Start ,6 Gears,17 inches,12V 
+Bajaj ComforTec,"53,503 ",96.9 Kmpl,116 kg,2003 mm,713 mm,1100 mm,1255 mm,200 mm,798 mm,102 cc,1,7.7 bhp @ 7500 rpm,8.34 Nm @ 5500 rpm,2,Electronic Injection ,Kick Start ,4 Gears,17 inches,Maintenance Free 
+TVS Scooty Pep Plus,"58,559 ",65 Kmpl,95 kg,1735 mm,590 mm,1065 mm,1230 mm,135 mm,768 mm,87.8 cc,1,4.9 bhp @ 6500 rpm,5.8 Nm @ 4000 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,10 inches,"12 V, 5 AH "
+Revolt RV400,1.38 Lakh,150 Km/Full Charge,108 kg,2156 mm,813 mm,1112 mm,1350 mm,215 mm,814 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17 inches,3.24 KWh 
+Kawasaki Ninja 650,6.59 Lakh,21 Kmpl,196 kg,2115 mm,740 mm,1145 mm,1410 mm,130 mm,790 mm,649 cc,2,67.3 bhp @ 8000 rpm,64 Nm @ 6700 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+TVS Apache RTR 180,1.14 Lakh,47 Kmpl,139 kg,2085 mm,730 mm,1105 mm,1326 mm,165 mm,790 mm,177.4 cc,1,16.5 bhp @ 8500 rpm,15.5 Nm @ 7000 rpm,2,Fuel Injection ,Electric & Kick- Start ,5 Gears,17 inches,"12V, 9.0 Ah "
+Ducati Monster 797,8.51 Lakh,18.86 Kmpl,193 kg,2099 mm,830 mm,1080 mm,1435 mm,N/A,805 mm,803 cc,2,72 bhp @ 8250 rpm,67 Nm @ 5750 rpm,2,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+BMW F900R,10.45 Lakh,24 Kmpl,211 kg,2140 mm,815 mm,1130 mm,1518 mm,N/A,815 mm,895 cc,2,103 bhp @ 8500 rpm,999.99 Nm @ 92 rpm,4,Electronic Injection ,Self Start ,6 Gears,17 inches,"12 V / 12 Ah, maintenance-free "
+Honda Dream Neo,"58,569 ",74 Kmpl,107 kg,2043 mm,737 mm,1084 mm,1258 mm,179 mm,820 mm,109.2 cc,1,8.31 bhp @ 7500 rpm,9.09 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12V 3Ah (MF) 
+TVS Victor,"60,412 ",72 Kmpl,112 kg,1980 mm,750 mm,1090 mm,1260 mm,175 mm,N/A,109.7 cc,1,9.46 bhp @ 7500 rpm,9.4 Nm @ 6000 rpm,3,Carburetor ,Self Start ,4 Gears,17 inches,Maintenance Free 
+Benelli TNT 300,3.22 Lakh,25 Kmpl,196 kg,2130 mm,800 mm,1120 mm,1410 mm,160 mm,795 mm,300 cc,2,38 bhp @ 11500 rpm,26.5 Nm @ 10000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,12V MF 
+Okinawa Praise,"66,273 ",170 Km/Full Charge,96 kg,1970 mm,745 mm,1145 mm,N/A,170 mm,774 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,72V/45Ah 
+TVS Sport,"58,501 ",76.4 Kmpl,110 kg,1950 mm,705 mm,1080 mm,1236 mm,175 mm,790 mm,109.7 cc,1,8.2 bhp @ 7350 rpm,8.7 Nm @ 4500 rpm,2,Fuel Injection ,Kick Start ,4 Gears,17 inches,"12V, 4 Ah "
+Royal Enfield Thunderbird 500,2.15 Lakh,32 Kmpl,197 kg,2060 mm,790 mm,1205 mm,1350 mm,135 mm,775 mm,499 cc,1,27.2 bhp @ 5250 rpm,41.3 Nm @ 4000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,5 Gears,19 inches,"12 Volt, 14Ah "
+Yamaha MT-09,11.3 Lakh,19 Kmpl,193 kg,2075 mm,815 mm,1120 mm,1440 mm,135 mm,820 mm,847 cc,3,113.4 bhp @ 10000 rpm,87.5 Nm @ 8500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+JAWA 300,1.88 Lakh,37.5 Kmpl,170 kg,2122 mm,789 mm,1165 mm,1369 mm,N/A,765 mm,293 cc,1,26 bhp @  rpm,28 Nm @  rpm,4,Carburetor ,Self Start ,6 Gears,18 inches,N/A
+Benelli TNT 600i,6.69 Lakh,19 Kmpl,231 kg,2160 mm,800 mm,1180 mm,1480 mm,150 mm,800 mm,600 cc,4,84 bhp @ 11500 rpm,54.6 Nm @ 10500 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,12V MF 
+Honda H Ness CB 350,2.01 Lakh,N/A,181 kg,2163 mm,800 mm,1107 mm,1441 mm,166 mm,800 mm,348.4 cc,1,20.78 bhp @ 5500 rpm,30 Nm @ 3000 rpm,N/A,Fuel Injection ,Self Start ,5 Gears,19 inches,N/A
+Suzuki Intruder,1.37 Lakh,44 Kmpl,152 kg,2130 mm,805 mm,1095 mm,1405 mm,170 mm,740 mm,154.9 cc,1,13.41 bhp @ 8000 rpm,13.8 Nm @ 6000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"Maintenance Free 12v, 3Ah "
+TVS Scooty Zest 110,"66,336 ",62 Kmpl,97 kg,1770 mm,660 mm,1139 mm,1250 mm,N/A,760 mm,109.7 cc,1,7.88 bhp @ 7500 rpm,8.4 Nm @ 5500 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,10 inches,"12 V, 5 AH LEAD ACID TYPE "
+Bajaj Avenger Street 220,1.15 Lakh,45 Kmpl,150 kg,2177 mm,801 mm,1070 mm,1490 mm,169 mm,725 mm,220 cc,1,18.76 bhp @ 8400 rpm,17.5 Nm @ 7000 rpm,2,Carburetor ,Self Start ,5 Gears,17 inches,"12V, 9Ah, MF "
+Honda CBR 1000RR,17.53 Lakh,18 Kmpl,196 kg,2065 mm,720 mm,1125 mm,1405 mm,130 mm,832 mm,999 cc,4,189 bhp @ 13000 rpm,114 Nm @ 11000 rpm,4,PGM-DSFI electronic fuel injection ,Self Start ,6 Gears,17 inches,12V - 7AH 
+Aprilia SR 160,1.15 Lakh,40 Kmpl,122 kg,1985 mm,703 mm,1166 mm,N/A,N/A,775 mm,160 cc,1,10.8 bhp @  rpm,N/A,3,Fuel Injection ,Self / Kick Start ,N/A,14 inches,Maintenance Free 
+Harley-Davidson Iron 883,9.9 Lakh,20 Kmpl,256 kg,2185 mm,820 mm,1120 mm,1515 mm,140 mm,760 mm,883 cc,2,N/A,68 Nm @ 4750 rpm,4,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,19 inches,"12V, MF "
+Yamaha Fazer 25,1.58 Lakh,43 Kmpl,154 kg,2015 mm,770 mm,1115 mm,1360 mm,160 mm,795 mm,249 cc,1,20.6 bhp @ 8000 rpm,20 Nm @ 6000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,Maintenance Free 
+Suzuki Gixxer SF 250,1.91 Lakh,38.5 Kmpl,161 kg,2010 mm,740 mm,1035 mm,1345 mm,165 mm,800 mm,249 cc,1,26 bhp @ 9300 rpm,23 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,"Maintenance Free,12 V 6AH "
+UM Motorcycles Renegade Sport S,1.7 Lakh,35 Kmpl,177 kg,2257 mm,780 mm,1140 mm,1545 mm,200 mm,750 mm,279.5 cc,1,24.8 bhp @ 8500 rpm,23 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+TVS XL 100 Comfort,"49,653 ",67 Kmpl,89 kg,2020 mm,750 mm,1110 mm,1215 mm,155 mm,770 mm,99.7 cc,1,4.3 bhp @ 6000 rpm,6.5 Nm @ 3500 rpm,2,Fuel-Injected ,Kick Start ,N/A,16 inches,"12V, 90W "
+BMW G 310 GS,3.75 Lakh,30 Kmpl,169 kg,2075 mm,880 mm,1230 mm,1420 mm,N/A,835 mm,313 cc,1,34 bhp @ 9500 rpm,28 Nm @ 7500 rpm,4,"Electronic Fuel Injection, BMS-E2 ",Self Start ,6 Gears,19 inches,"12 V / 8 Ah, Maintenance free "
+Bajaj 2019 Dominar 400,2.09 Lakh,27 Kmpl,184 kg,2156 mm,836 mm,1112 mm,1453 mm,157 mm,N/A,373.3 cc,1,39.4 bhp @ 8650 rpm,35 Nm @ 7000 rpm,4,Fuel Injection ,Electric Start ,6 Gears,17 inches,"12V, 8Ah VRLA "
+Royal Enfield Classic Chrome,2.01 Lakh,27 Kmpl,194 kg,2140 mm,790 mm,1090 mm,1360 mm,135 mm,800 mm,499 cc,1,27.2 bhp @ 5250 rpm,41.3 Nm @ 4000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,5 Gears,19 inches,"12 Volt, 14 Ah "
+KTM 250 Duke,2.25 Lakh,30 Kmpl,169 kg,2072 mm,831 mm,1109 mm,1357 mm,151 mm,823 mm,248.8 cc,1,29.6 bhp @ 9000 rpm,24 Nm @ 7500 rpm,4,Fuel Injection System ,Self Start ,6 Gears,17 inches,12V 
+TVS iQube,1.23 Lakh,75 Km/Full Charge,118 kg,1970 mm,745 mm,1145 mm,N/A,150 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,N/A
+Hero HF Deluxe Eco,"51,470 ",83 Kmpl,112 kg,1965 mm,720 mm,1045 mm,1235 mm,165 mm,805 mm,97.2 cc,1,8.24 bhp @ 8000 rpm,8.05 Nm @ 5000 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,"12 V - 3 Ah , MF Battery "
+Suzuki Access 125 SE,"77,495 ",64 Kmpl,104 kg,1870 mm,690 mm,1160 mm,1265 mm,160 mm,773 mm,124 cc,1,8.58 bhp @ 6750 rpm,10.2 Nm @ 5500 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,12 inches,"Maintenance Free 12V, 3Ah "
+BMW R 1250 GS,17.97 Lakh,21 Kmpl,249 kg,2207 mm,953 mm,1430 mm,1525 mm,185 mm,850 mm,1254 cc,2,134 bhp @ 7750 rpm,143 Nm @ 6250 rpm,4,Electronic intake pipe injection ,Electric Start ,6 Gears,17 inches,"12 V / 11.8 Ah, maintenance-free "
+Hero Splendor iSmart,"73,908 ",75 Kmpl,116 kg,2048 mm,726 mm,1110 mm,1270 mm,160 mm,180 mm,113.2 cc,1,9 bhp @ 7500 rpm,9.89 Nm @ 5500 rpm,2,Fuel Injected ,Self / Kick Start ,4 Gears,18 inches,3Ah (MF Battery) 
+Kawasaki Ninja 1000,11.39 Lakh,17 Kmpl,238 kg,2100 mm,825 mm,1190 mm,1440 mm,130 mm,815 mm,1043 cc,4,140 bhp @ 10000 rpm,111 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+KTM 790 Duke,9.28 Lakh,22.7 Kmpl,169 kg,2145 mm,760 mm,800 mm,N/A,186 mm,825 mm,799 cc,2,103 bhp @  rpm,87 Nm @  rpm,4,Fuel Injection System ,Electric starter ,6 Gears,17 inches,12V 
+Aprilia SR 125,"77,239 ",40 Kmpl,122 kg,1985 mm,703 mm,1166 mm,N/A,160 mm,775 mm,125 cc,1,9.4 bhp @ 7250 rpm,9.9 Nm @ 6250 rpm,2,Carbuerator ,Self Start ,N/A,14 inches,Maintenance Free 
+FB Mondial HPS 300,3.57 Lakh,26 Kmpl,135 kg,2016 mm,765 mm,1060 mm,1370 mm,155 mm,785 mm,249 cc,1,24 bhp @ 9000 rpm,22 Nm @ 7000 rpm,4,EFI ,Electric ,6 Gears,18 inches,N/A
+Kawasaki Ninja ZX-6R,11.24 Lakh,23.59 Kmpl,196 kg,2025 mm,710 mm,1100 mm,1400 mm,130 mm,830 mm,636 cc,4,126 bhp @ 13500 rpm,70.8 Nm @ 11000 rpm,4,Fuel Injection ,Electric Start ,6 Gears,17 inches,N/A
+Piaggio Vespa 150,1.33 Lakh,45 Kmpl,114 kg,1770 mm,690 mm,1140 mm,1290 mm,155 mm,N/A,150 cc,1,11.4 bhp @ 7000 rpm,11.5 Nm @ 5500 rpm,3,Fuel Injection ,Self / Kick Start ,N/A,11 inches,Maintenance Free 
+Harley-Davidson Fat Boy,19.26 Lakh,15 Kmpl,304 kg,2370 mm,990 mm,1095 mm,1665 mm,115 mm,670 mm,1745 cc,2,65 bhp @ 5500 rpm,144 Nm @ 3000 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,18 inches,Maintenance Free 
+Suzuki GSX R1000,20.13 Lakh,14 Kmpl,202 kg,2075 mm,710 mm,1150 mm,1410 mm,130 mm,825 mm,999 cc,4,199 bhp @ 13200 rpm,117.6 Nm @ 10800 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+KTM 390 Adventure,3.3 Lakh,25 Kmpl,158 kg,2154 mm,900 mm,1400 mm,1430 mm,200 mm,855 mm,373 cc,1,33 bhp @ 9000 rpm,37 Nm @ 7000 rpm,2,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,N/A
+Ducati Monster 821,11.77 Lakh,13 Kmpl,205 kg,2170 mm,800 mm,1055 mm,1480 mm,N/A,785 mm,821 cc,2,112 bhp @ 9250 rpm,89.4 Nm @ 7750 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Kawasaki Z900,8.44 Lakh,15 Kmpl,208 kg,2070 mm,825 mm,1080 mm,1455 mm,145 mm,820 mm,948 cc,4,123 bhp @ 9500 rpm,98.6 Nm @ 7700 rpm,4,Fuel injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Kawasaki Ninja 400,5.41 Lakh,25 Kmpl,173 kg,2020 mm,710 mm,1120 mm,1370 mm,140 mm,785 mm,399 cc,2,48.3 bhp @ 10000 rpm,38 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Benelli TRK 502,5.53 Lakh,29.78 Kmpl,235 kg,2200 mm,915 mm,1450 mm,1525 mm,190 mm,800 mm,500 cc,2,47 bhp @ 8500 rpm,46 Nm @ 6000 rpm,8,Electronic fuel injection  ,N/A,6 Gears,N/A,N/A
+Indian Scout Sixty,11.65 Lakh,25 Kmpl,254 kg,2311 mm,880 mm,1207 mm,1562 mm,135 mm,635 mm,999 cc,2,76.9 bhp @ 7300 rpm,88.8 Nm @ 5800 rpm,4,Closed Loop Fuel Injection ,Self Start ,5 Gears,16 inches,Maintenance Free 
+Hero Electric Photon,"94,713 ",50 Km/Full Charge,111 kg,1970 mm,745 mm,1145 mm,N/A,140 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,72V/24AH 
+Honda CB300R,2.61 Lakh,30.2 Kmpl,147 kg,2028 mm,888 mm,1053 mm,1344 mm,151 mm,800 mm,286 cc,1,30 bhp @ 8000 rpm,27.4 Nm @ 6500 rpm,N/A,Fuel Injection ,Self Start ,6 Gears,N/A,12V-7AH 
+Hyosung GT650R,5.08 Lakh,20 Kmpl,215 kg,2095 mm,700 mm,1135 mm,1445 mm,165 mm,830 mm,647 cc,2,72.68 bhp @ 9000 rpm,60.9 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+UM Motorcycles Renegade Classic,2.08 Lakh,35 Kmpl,179 kg,2257 mm,780 mm,1350 mm,1545 mm,200 mm,750 mm,279.5 cc,1,24.8 bhp @ 8500 rpm,23 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Indian Scout,13.45 Lakh,25 Kmpl,244 kg,2311 mm,880 mm,1207 mm,1562 mm,135 mm,635 mm,1131 cc,2,100 bhp @ 8100 rpm,97.7 Nm @ 5900 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Triumph Bonneville Bobber,10.68 Lakh,24 Kmpl,228 kg,N/A,800 mm,1025 mm,1510 mm,N/A,690 mm,1200 cc,2,76 bhp @ 6100 rpm,106 Nm @ 4000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Suzuki Gixxer 250,1.79 Lakh,38 Kmpl,156 kg,2010 mm,805 mm,1035 mm,1340 mm,165 mm,800 mm,249 cc,1,26 bhp @ 9300 rpm,22.6 Nm @ 7500 rpm,4,Fuel Injection ,Electric ,6 Gears,17 inches,"Maintenance free, 12V 6Ah "
+Harley-Davidson Roadster,11.65 Lakh,20 Kmpl,250 kg,2185 mm,N/A,N/A,1505 mm,150 mm,785 mm,1202 cc,2,N/A,96 Nm @ 4000 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,5 Gears,19 inches,Dry 
+BMW R nine T,18.02 Lakh,22 Kmpl,208 kg,2110 mm,900 mm,1240 mm,1487 mm,N/A,805 mm,1170 cc,2,110 bhp @ 7750 rpm,116 Nm @ 6000 rpm,4,Electronic intake pipe Injection ,Self Start ,6 Gears,17 inches,"12V / 14Ah, Maintenance Free "
+Benelli Leoncino,5.2 Lakh,24 Kmpl,150 kg,2160 mm,875 mm,1160 mm,1460 mm,145 mm,N/A,500 cc,2,64 bhp @ 8500 rpm,46 Nm @ 6000 rpm,4,N/A,Electric ,6 Gears,N/A,N/A
+Ducati Panigale V2,17.93 Lakh,N/A,198 kg,2056 mm,810 mm,1115 mm,1469 mm,N/A,830 mm,955 cc,2,155 bhp @ 10750 rpm,104 Nm @ 9000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,N/A,N/A
+Hyosung Aquila 250,3.01 Lakh,30 Kmpl,179 kg,2282 mm,875 mm,1096 mm,1515 mm,155 mm,710 mm,249 cc,2,26.21 bhp @ 9500 rpm,21.37 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,5 Gears,16 inches,Maintenance free 
+Indian FTR 1200,17.06 Lakh,18 Kmpl,221 kg,2287 mm,850 mm,1297 mm,1524 mm,183 mm,805 mm,1203 cc,N/A,N/A,120 Nm @ 6000 rpm,N/A,Closed Loop Fuel Injection ,Self Start ,5 Gears,19 inches,N/A
+Ducati SuperSport,12.76 Lakh,20 Kmpl,210 kg,2070 mm,750 mm,1150 mm,1478 mm,N/A,810 mm,937 cc,2,109 bhp @ 9000 rpm,93 Nm @ 6500 rpm,4,Continental Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Honda CB 1000R,14.18 Lakh,16 Kmpl,222 kg,2105 mm,805 mm,1095 mm,1445 mm,130 mm,825 mm,998 cc,4,123.4 bhp @ 10000 rpm,99 Nm @ 7750 rpm,4,PGM - FI Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,12V 8.6AH 
+Mahindra Mojo,2.15 Lakh,25 Kmpl,186 kg,2115 mm,800 mm,1150 mm,1460 mm,165 mm,830 mm,295 cc,1,26 bhp @ 7500 rpm,28 Nm @ 5500 rpm,4,Fuel injection ,Self Start ,6 Gears,17 inches,N/A
+TVS XL HD,"49,844 ",67 Kmpl,80 kg,2020 mm,750 mm,1110 mm,1228 mm,155 mm,770 mm,99 cc,1,4.3 bhp @ 6000 rpm,6.5 Nm @ 3500 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,16 inches,"Fly wheel magneto 12V, 90W "
+Benelli Leoncino 250,2.7 Lakh,37 Kmpl,162 kg,2030 mm,840 mm,1115 mm,1380 mm,170 mm,810 mm,249 cc,1,25 bhp @ 9250 rpm,21 Nm @ 8000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,N/A
+Hero Electric Dash,"66,585 ",60 Km/Full Charge,75 kg,1970 mm,745 mm,1145 mm,N/A,160 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48V/28Ah 
+Ducati 1299 Panigale,54.88 Lakh,15 Kmpl,190 kg,2070 mm,745 mm,1105 mm,1443 mm,N/A,830 mm,1285 cc,2,207 bhp @ 11000 rpm,142 Nm @ 9000 rpm,4,Mitsubishi Electronic Fuel Injection System ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ducati Multistrada 1260,17.06 Lakh,19.2 Kmpl,232 kg,2280 mm,985 mm,1220 mm,1585 mm,N/A,825 mm,1262 cc,4,158 bhp @ 9500 rpm,129.5 Nm @ 7500 rpm,4,Bosch Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+MV Agusta Brutale 800,16.99 Lakh,18 Kmpl,175 kg,2045 mm,875 mm,835 mm,1400 mm,135 mm,830 mm,798 cc,3,109 bhp @ 11500 rpm,83 Nm @ 7600 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,12V - 8.6 Ah 
+Hero Electric NYX,"66,443 ",65 Km/Full Charge,75 kg,1970 mm,745 mm,1145 mm,N/A,160 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,48V/20Ah 
+Avantura Choppers Rudra,26.23 Lakh,19 Kmpl,344 kg,2960 mm,920 mm,1220 mm,2180 mm,150 mm,574 mm,2025.7 cc,2,N/A,N/A,2,SINGLE BORE ELECTRONIC FUEL INJECTION ,Self Start ,6 Gears,23 inches,Maintenance Free 
+Hyosung Aquila Pro650,5.97 Lakh,18 Kmpl,240 kg,2330 mm,840 mm,1150 mm,1670 mm,140 mm,690 mm,647 cc,2,75.2 bhp @ 9000 rpm,62.1 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,5 Gears,18 inches,Maintenance Free 
+Honda Africa Twin,14.42 Lakh,16 Kmpl,243 kg,2334 mm,932 mm,1478 mm,1571 mm,251 mm,840 mm,999.1 cc,2,87.7 bhp @ 7500 rpm,93.1 Nm @ 6000 rpm,4,Fuel Injection ,Self/Kick Start ,6 Gears,21 inches,12V 6A-h 
+Suzuki V-Strom 650XT,7.91 Lakh,26 Kmpl,216 kg,2275 mm,910 mm,1405 mm,1560 mm,170 mm,835 mm,645 cc,2,N/A,N/A,4,Fuel Injection ,N/A,6 Gears,17 inches,N/A
+Ducati Scrambler,8.48 Lakh,20 Kmpl,170 kg,2165 mm,845 mm,1150 mm,1445 mm,N/A,790 mm,803 cc,2,72 bhp @ 8250 rpm,67 Nm @ 5750 rpm,2,Electronic Fuel Injection ,Self Start ,6 Gears,18 inches,Maintenance Free 
+Ducati Diavel 1260,18.87 Lakh,18.5 Kmpl,244 kg,2310 mm,1010 mm,1133 mm,1600 mm,N/A,780 mm,1262 cc,2,159 bhp @ 9500 rpm,129 Nm @ 7500 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,N/A
+Harley-Davidson Fat Bob,15.46 Lakh,15 Kmpl,296 kg,2345 mm,890 mm,1130 mm,1615 mm,120 mm,720 mm,1745 cc,2,65 bhp @ 5500 rpm,145 Nm @ 3250 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,16 inches,Maintenance Free 
+BMW R 1200 GS,16.79 Lakh,18 Kmpl,244 kg,2207 mm,953 mm,1412 mm,1507 mm,185 mm,850 mm,1170 cc,2,125 bhp @ 7750 rpm,125 Nm @ 6500 rpm,4,Electronic Intake Pipe Injection ,Self Start ,6 Gears,19 inches,"12 V / 11,8 Ah, Maintenance-free "
+BMW R 1200 GS Adventure,18.39 Lakh,20 Kmpl,263 kg,2255 mm,980 mm,1450 mm,1510 mm,N/A,890 mm,1170 cc,2,123 bhp @ 7750 rpm,125 Nm @ 6500 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,19 inches,"12V / 11,8Ah, Maintenance Free "
+TVS Apache RTR 200 FI E100,1.32 Lakh,42 Kmpl,152 kg,2050 mm,790 mm,1105 mm,1353 mm,180 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"12V, 9Ah / 8Ah "
+Mahindra Centuro Rockstar,"52,450 ",85.4 Kmpl,126 kg,2031 mm,735 mm,1111 mm,1265 mm,173 mm,800 mm,106.7 cc,1,8.4 bhp @ 7500 rpm,8.5 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,4 Gears,18 inches,12V / 4Ah (maintenance Free) 
+Triumph Tiger 1200,18.01 Lakh,18 Kmpl,248 kg,N/A,830 mm,1470 mm,1520 mm,N/A,835 mm,1215 cc,3,139 bhp @ 9350 rpm,122 Nm @ 7600 rpm,4,Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Ducati XDiavel,17.46 Lakh,15 Kmpl,247 kg,2310 mm,1010 mm,1133 mm,1615 mm,N/A,755 mm,1262 cc,2,150 bhp @ 9500 rpm,126 Nm @ 5000 rpm,4,Bosch Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+MV Agusta F3 800 RC,24.07 Lakh,14 Kmpl,173 kg,2060 mm,725 mm,805 mm,1380 mm,125 mm,N/A,798 cc,3,153 bhp @ 13250 rpm,88 Nm @ 10600 rpm,4,Integrated Ignition ,Self Start ,6 Gears,17 inches,12 V - 8.6 Ah 
+Indian Roadmaster,41.3 Lakh,15 Kmpl,421 kg,2656 mm,1000 mm,1491 mm,1668 mm,140 mm,673 mm,1811 cc,2,100 bhp @ 3000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Kawasaki Z1000R,17.06 Lakh,15 Kmpl,221 kg,2045 mm,790 mm,1055 mm,1435 mm,125 mm,815 mm,1043 cc,4,140 bhp @ 11000 rpm,111 Nm @ 7300 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+BMW F 850 GS,13.84 Lakh,22 Kmpl,229 kg,2305 mm,922 mm,1356 mm,1593 mm,N/A,860 mm,853 cc,2,94 bhp @ 8250 rpm,92 Nm @ 6250 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,21 inches,"12 V / 10 Ah, Maintenance-free "
+Triumph Bonneville T100,9.37 Lakh,26.3 Kmpl,213 kg,2230 mm,715 mm,1100 mm,1450 mm,140 mm,790 mm,900 cc,2,54.3 bhp @ 5750 rpm,80 Nm @ 3230 rpm,8,Multipoint Sequential Electronic Fuel Injection ,Self Start ,5 Gears,18 inches,Maintenance Free 
+Kawasaki Z650,6.27 Lakh,18 Kmpl,186 kg,2110 mm,770 mm,1110 mm,1410 mm,130 mm,805 mm,649 cc,2,67 bhp @ 8000 rpm,64 Nm @ 6700 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Benelli BN 302R,3.33 Lakh,20 Kmpl,198 kg,2150 mm,745 mm,1115 mm,N/A,150 mm,N/A,300 cc,2,38.26 bhp @ 11500 rpm,26.5 Nm @ 10000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ducati Monster 1200,21.29 Lakh,15 Kmpl,213 kg,2124 mm,845 mm,1125 mm,1485 mm,N/A,795 mm,1198 cc,2,145 bhp @ 9250 rpm,124 Nm @ 7750 rpm,4,Electronic Fuel Injection  ,Self Start ,6 Gears,17 inches,Maintenance Free 
+MV Agusta Dragster 800 RR,20.52 Lakh,14.9 Kmpl,168 kg,2035 mm,935 mm,845 mm,1400 mm,135 mm,N/A,798 cc,3,140 bhp @ 12300 rpm,87 Nm @ 10100 rpm,N/A,Fuel Injection ,Self Start ,6 Gears,N/A,12 V - 8.6 Ah 
+Okinawa Lite,"64,460 ",50 Km/Full Charge,150 kg,1790 mm,710 mm,1190 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.25 KWh 
+BGauss B8,"71,507 ",78 Km/Full Charge,88 kg,1747 mm,890 mm,1285 mm,1256 mm,139 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,60 V 
+MV Agusta Brutale 800 RR,20.52 Lakh,18 Kmpl,175 kg,2045 mm,875 mm,830 mm,1400 mm,135 mm,N/A,798 cc,3,140 bhp @ 12300 rpm,87 Nm @ 10100 rpm,4,Electronic Fuel Injection ,Electric ,6 Gears,17 inches,"12 V - 8,6 Ah "
+Atumobile Atum 1.0,"54,654 ",100 Km/Full Charge,108 kg,2156 mm,813 mm,1112 mm,N/A,280 mm,750 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18.6 Ah 
+Harley-Davidson Forty-Eight,11.2 Lakh,20 Kmpl,252 kg,2165 mm,820 mm,1065 mm,1495 mm,110 mm,710 mm,1202 cc,2,60 bhp @ 5500 rpm,97 Nm @ 4250 rpm,2,Electronic Fuel Injection ,Self Start ,5 Gears,16 inches,"12V, 12-AMP/Hour.200 CCA "
+Ampere V48,"38,718 ",45 Km/Full Charge,84 kg,1750 mm,640 mm,1200 mm,1275 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48V/24Ah 
+BMW R 18,19.95 Lakh,17.8 Kmpl,345 kg,2440 mm,964 mm,1232 mm,1731 mm,N/A,690 mm,1802 cc,2,90 bhp @ 4750 rpm,158 Nm @ 3000 rpm,N/A,Electronic Intake Pipe Fuel Injection ,Self Start ,6 Gears,N/A,"12 V / 26 Ah, maintenance-free "
+Cleveland Cyclewerks Ace Deluxe,2.41 Lakh,33.98 Kmpl,133 kg,2120 mm,830 mm,1100 mm,1350 mm,150 mm,760 mm,229 cc,1,15 bhp @ 7000 rpm,16 Nm @ 6000 rpm,N/A,N/A,Electric Start ,5 Gears,18 inches,"12V, 9Ah "
+Indian Roadmaster Elite,50.83 Lakh,15 Kmpl,433 kg,2676 mm,1000 mm,1491 mm,1668 mm,140 mm,673 mm,1811 cc,2,N/A,150 Nm @ 2900 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+BMW F 750 GS,9.65 Lakh,22 Kmpl,224 kg,2255 mm,922 mm,1225 mm,1559 mm,N/A,815 mm,853 cc,2,76 bhp @ 7500 rpm,83 Nm @ 6000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,"12 V / 10 Ah, Maintenance-free "
+Kawasaki KX250F,7.87 Lakh,25 Kmpl,104 kg,2172 mm,826 mm,1270 mm,1478 mm,325 mm,945 mm,249 cc,1,N/A,N/A,2,Fuel Injection ,Self Start ,5 Gears,21 inches,N/A
+Triumph  Speed Twin,10.15 Lakh,20.8 Kmpl,196 kg,1235 mm,760 mm,1110 mm,1430 mm,N/A,807 mm,1200 cc,2,96 bhp @ 6750 rpm,112 Nm @ 4950 rpm,4,Multipoint sequential electronic fuel injection ,Electric Start ,6 Gears,N/A,N/A
+BMW F900XR,11.08 Lakh,24 Kmpl,219 kg,2160 mm,860 mm,1420 mm,1521 mm,N/A,825 mm,895 cc,2,103 bhp @ 8500 rpm,92 Nm @ 6500 rpm,4,Electronic Injection ,Self Start ,6 Gears,17 inches,"12 V / 12 Ah, maintenance-free "
+Triumph Rocket 3,19 Lakh,13 Kmpl,291 kg,2400 mm,889 mm,1065 mm,1677 mm,N/A,773 mm,2458 cc,3,165 bhp @ 6000 rpm,221 Nm @ 4000 rpm,4,Fuel Injected ,Self Start ,6 Gears,17 inches,N/A
+Kawasaki Versys X-300,4.97 Lakh,22 Kmpl,184 kg,2170 mm,940 mm,1390 mm,1450 mm,180 mm,815 mm,296 cc,2,39 bhp @ 11500 rpm,25.7 Nm @ 10000 rpm,4,Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+CFMoto 300NK,2.48 Lakh,33 Kmpl,151 kg,1990 mm,780 mm,1070 mm,1360 mm,150 mm,795 mm,292.4 cc,1,33 bhp @ 8800 rpm,25 Nm @ 7200 rpm,4,Electronic Fuel Injection ,Electric Start ,6 Gears,17 inches,N/A
+Kawasaki Z1000,16 Lakh,15 Kmpl,221 kg,2045 mm,790 mm,1055 mm,1435 mm,125 mm,815 mm,1043 cc,4,140 bhp @ 11000 rpm,111 Nm @ 7300 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+BMW S 1000 XR,22.06 Lakh,20 Kmpl,216 kg,2183 mm,940 mm,1408 mm,1548 mm,N/A,840 mm,999 cc,4,163 bhp @ 11000 rpm,114 Nm @ 9250 rpm,4,Electronic injection ,Self Start ,6 Gears,17 inches,"12 V / 8 Ah, Maintenance-Free "
+Harley-Davidson CVO Limited,52.94 Lakh,8 Kmpl,411 kg,2600 mm,N/A,N/A,1625 mm,125 mm,760 mm,1923 cc,2,N/A,167 Nm @ 3500 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Triumph Speedmaster,11.97 Lakh,23.25 Kmpl,245 kg,2195 mm,770 mm,1040 mm,1510 mm,N/A,705 mm,1200 cc,2,76 bhp @ 6100 rpm,106 Nm @ 4000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Triumph Tiger 900,14.46 Lakh,N/A,194 kg,2215 mm,930 mm,1460 mm,1556 mm,N/A,830 mm,888 cc,3,94 bhp @ 8750 rpm,87 Nm @ 7250 rpm,12,Multipoint sequential electronic fuel injection ,Self Start ,6 Gears,17 inches,N/A
+BMW K 1600 GTL,29.98 Lakh,15 Kmpl,350 kg,2489 mm,1000 mm,1475 mm,1618 mm,146 mm,750 mm,1649 cc,6,158 bhp @ 7750 rpm,175 Nm @ 5250 rpm,4,Electronic Intake Pipe Injection ,Self Start ,6 Gears,17 inches,"12 V / 19 Ah, Maintenance Free "
+Okinawa i-Praise,1.23 Lakh,160 Km/Full Charge,150 kg,1970 mm,745 mm,1150 mm,N/A,175 mm,800 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,2.9 KWh 
+Triumph Street Triple RS,9.33 Lakh,19.1 Kmpl,168 kg,2065 mm,775 mm,1065 mm,1405 mm,165 mm,825 mm,765 cc,3,116 bhp @ 12000 rpm,79 Nm @ 9350 rpm,4,Multipoint Sequential Electronic Fuel Injection with SAI ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Harley-Davidson Road King,26.47 Lakh,17 Kmpl,362 kg,2450 mm,N/A,N/A,1625 mm,135 mm,705 mm,1745 cc,2,N/A,150 Nm @ 3250 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,17 inches,"12V, 19-AMP/Hour.270 CCA "
+BMW R 1200 RT,19.56 Lakh,20 Kmpl,276 kg,2222 mm,983 mm,1416 mm,1485 mm,N/A,805 mm,1170 cc,2,123 bhp @ 7750 rpm,125 Nm @ 6500 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,17 inches,"12V / 16Ah, maintenance-free "
+Ducati Scrambler Desert Sled,10.64 Lakh,20 Kmpl,191 kg,2200 mm,940 mm,1213 mm,1505 mm,N/A,860 mm,803 cc,2,73 bhp @ 8250 rpm,67 Nm @ 5750 rpm,2,Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+BMW K 1600 B,29.76 Lakh,15 Kmpl,350 kg,2489 mm,1000 mm,1465 mm,1618 mm,146 mm,750 mm,1649 cc,6,158 bhp @ 7750 rpm,175 Nm @ 5250 rpm,4,Electronic Intake Pipe Injection ,Self Start ,6 Gears,17 inches,"12 V / 19 Ah, Maintenance Free "
+Honda CRF1100L Africa Twin,16.2 Lakh,20.4 Kmpl,226 kg,2334 mm,932 mm,1478 mm,1574 mm,250 mm,840 mm,1084 cc,2,101 bhp @ 7500 rpm,105 Nm @ 6250 rpm,8,Fuel Injection ,Self Start ,6 Gears,18 inches,12V 11.2Ah 
+Avantura Choppers Pravega,22.67 Lakh,18 Kmpl,347 kg,2720 mm,835 mm,1155 mm,200 mm,150 mm,600 mm,2025.7 cc,2,N/A,N/A,2,SINGLE BORE ELECTRONIC FUEL INJECTION ,Self Start ,6 Gears,21 inches,Maintenance Free 
+Suzuki GSX-R1000R,20.99 Lakh,16 Kmpl,203 kg,2075 mm,710 mm,1150 mm,1410 mm,130 mm,825 mm,999 cc,4,199 bhp @ 13200 rpm,117.6 Nm @ 10800 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Harley-Davidson 1200 Custom,11.52 Lakh,N/A,268 kg,2225 mm,926 mm,1154 mm,1530 mm,105 mm,725 mm,1202 cc,2,N/A,96 Nm @ 3500 rpm,N/A,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,16 inches,12V DC 
+Ducati Hypermotard 939,11.79 Lakh,20 Kmpl,204 kg,2120 mm,895 mm,1155 mm,1493 mm,N/A,810 mm,937 cc,2,109 bhp @ 9000 rpm,95 Nm @ 7500 rpm,4,Magneti Marelli Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Harley-Davidson Street Bob,13.34 Lakh,15 Kmpl,286 kg,2320 mm,940 mm,1285 mm,1630 mm,125 mm,675 mm,1745 cc,2,65 bhp @ 5500 rpm,144 Nm @ 3000 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Suzuki DR-Z50,2.71 Lakh,70 Kmpl,54 kg,1320 mm,580 mm,790 mm,935 mm,135 mm,560 mm,49 cc,1,N/A,N/A,N/A,Carburetor ,Self start and kickstarter ,3 Gears,10 inches,N/A
+Kawasaki Ninja ZX-14R,20.87 Lakh,18 Kmpl,269 kg,2170 mm,770 mm,1170 mm,1480 mm,125 mm,800 mm,1441 cc,4,197 bhp @ 10000 rpm,158.2 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ducati Hypermotard 950,12.83 Lakh,9 Kmpl,178 kg,2120 mm,895 mm,1155 mm,1493 mm,N/A,870 mm,937 cc,2,114 bhp @ 9000 rpm,96 Nm @ 7250 rpm,4,Electric Fuel Injection ,Electric Start ,6 Gears,17 inches,N/A
+Ducati Multistrada 950,13.56 Lakh,16 Kmpl,229 kg,2280 mm,985 mm,1220 mm,1594 mm,N/A,840 mm,937 cc,2,111 bhp @ 9000 rpm,96 Nm @ 7750 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Triumph Street Twin,7.87 Lakh,18 Kmpl,198 kg,2090 mm,785 mm,1114 mm,1415 mm,N/A,750 mm,900 cc,2,65 bhp @ 7500 rpm,80 Nm @ 3700 rpm,4,Multipoint Sequential Electronic Fuel Injection ,Self Start ,5 Gears,18 inches,Maintenance Free 
+Kawasaki Z900RS,16.75 Lakh,20 Kmpl,215 kg,2100 mm,865 mm,1150 mm,1470 mm,130 mm,835 mm,948 cc,4,109 bhp @ 8500 rpm,98.5 Nm @ 6500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+CFMoto 650MT,5.41 Lakh,20 Kmpl,218 kg,2180 mm,835 mm,1332 mm,1425 mm,128 mm,840 mm,649 cc,2,69 bhp @ 8750 rpm,62 Nm @ 7000 rpm,8,EFI ,Self Start ,6 Gears,17 inches,N/A
+Harley-Davidson Softail Low Rider,14.51 Lakh,15 Kmpl,300 kg,2360 mm,965 mm,1155 mm,1630 mm,130 mm,680 mm,1745 cc,2,N/A,144 Nm @ 3000 rpm,4,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,19 inches,Maintenance Free 
+BMW S 1000 R,17.81 Lakh,21 Kmpl,202 kg,2057 mm,845 mm,1228 mm,1439 mm,N/A,814 mm,999 cc,4,163 bhp @ 11000 rpm,114 Nm @ 9250 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,"12V / 9Ah, Maintenance-free "
+Kawasaki Versys 1000,11.6 Lakh,14 Kmpl,250 kg,2240 mm,895 mm,1400 mm,1520 mm,150 mm,840 mm,1043 cc,4,118 bhp @ 9000 rpm,102 Nm @ 7500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ducati Hyperstrada 939,12.88 Lakh,20 Kmpl,210 kg,2095 mm,920 mm,1320 mm,1485 mm,N/A,810 mm,937 cc,2,109 bhp @ 9000 rpm,95 Nm @ 7500 rpm,4,Magneti Marelli Electronic Fuel Injection  ,Self Start ,6 Gears,17 inches,Maintenance Free 
+BMW R 1200 R,16.07 Lakh,20 Kmpl,232 kg,2165 mm,880 mm,1300 mm,1515 mm,N/A,790 mm,1170 cc,2,123 bhp @ 7750 rpm,125 Nm @ 6500 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,17 inches,"12V / 12Ah, maintenance-free "
+CFMoto 650GT,5.94 Lakh,20 Kmpl,226 kg,2100 mm,930 mm,1340 mm,1415 mm,150 mm,795 mm,649.3 cc,2,61 bhp @ 9000 rpm,58 Nm @ 7000 rpm,4,Electronic Fuel Injection ,Electric Start ,6 Gears,N/A,N/A
+Ampere Reo Elite,"47,264 ",60 Km/Full Charge,86 kg,1670 mm,640 mm,1110 mm,1270 mm,130 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,48V/20Ah 
+Indian Chieftain Dark Horse,31.76 Lakh,18 Kmpl,377 kg,2571 mm,1000 mm,1388 mm,1668 mm,142 mm,660 mm,1811 cc,2,73 bhp @ 5075 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Kawasaki KLX 110,3.17 Lakh,80 Kmpl,76 kg,1560 mm,650 mm,955 mm,1075 mm,215 mm,680 mm,112 cc,1,7 bhp @ 7500 rpm,8 Nm @ 4000 rpm,2,Carburettor ,Kick & Electric ,4 Gears,N/A,N/A
+Triumph Street Scrambler,9.18 Lakh,18 Kmpl,203 kg,2090 mm,835 mm,1180 mm,1445 mm,N/A,790 mm,900 cc,2,64.1 bhp @ 7500 rpm,80 Nm @ 3200 rpm,8,Multipoint Sequential Electronic Fuel Injection ,Self Start ,5 Gears,19 inches,Maintenance Free 
+Ducati Multistrada 1200 Enduro,19.06 Lakh,24 Kmpl,254 kg,N/A,N/A,N/A,1594 mm,205 mm,870 mm,1198.4 cc,2,150 bhp @ 9500 rpm,128 Nm @ 7500 rpm,4,Bosch Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Kawasaki KX 100,5.16 Lakh,55 Kmpl,77 kg,1920 mm,765 mm,765 mm,1310 mm,330 mm,870 mm,99 cc,1,N/A,N/A,N/A,Carburettor: Keihin PWK 28 ,Primary Kick ,6 Gears,N/A,N/A
+Cleveland Cyclewerks Misfit,2.64 Lakh,30 Kmpl,133 kg,2120 mm,830 mm,1100 mm,1350 mm,150 mm,760 mm,229 cc,1,15 bhp @ 7000 rpm,16 Nm @ 6000 rpm,N/A,N/A,Electric Start ,5 Gears,18 inches,"12V, 9Ah "
+Kawasaki KLX 140G,4.31 Lakh,N/A,99 kg,2005 mm,790 mm,1135 mm,1330 mm,315 mm,860 mm,144 cc,1,N/A,N/A,2,Carburettor: PB20 ,Kick & Electric ,5 Gears,N/A,N/A
+Suzuki RM-Z250,7.52 Lakh,30 Kmpl,106 kg,2170 mm,830 mm,1270 mm,1475 mm,345 mm,955 mm,249 cc,1,N/A,N/A,N/A,Fuel Injection ,Self Start ,5 Gears,N/A,N/A
+Moto Guzzi MGX-21,30.26 Lakh,15 Kmpl,341 kg,2560 mm,920 mm,1275 mm,1700 mm,N/A,740 mm,1380 cc,2,96.6 bhp @ 6500 rpm,121 Nm @ 3000 rpm,4,Fuel Injection ,Self Start ,6 Gears,21 inches,Maintenance Free 
+Polarity Executive,"41,215 ",80 Km/Full Charge,55 kg,1112 mm,813 mm,860 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,80V/5Ah 
+Indian Chief Classic,22.56 Lakh,20 Kmpl,357 kg,2630 mm,1000 mm,1176 mm,1730 mm,140 mm,660 mm,1811 cc,2,100 bhp @ 3000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Kawasaki KX 450,8.26 Lakh,25 Kmpl,110 kg,2185 mm,830 mm,1275 mm,1485 mm,340 mm,955 mm,449 cc,1,N/A,N/A,4,Fuel injection ,Electric ,5 Gears,N/A,Li-ion Battery 
+Moto Guzzi V9 Roamer,14.79 Lakh,18 Kmpl,199 kg,2240 mm,865 mm,1165 mm,1465 mm,N/A,785 mm,850 cc,2,55 bhp @ 6250 rpm,62 Nm @ 3000 rpm,2,Electronic Injection ,Self Start ,6 Gears,19 inches,12V - 18 Ah 
+Norton Dominator,25.06 Lakh,N/A,190 kg,2200 mm,660 mm,830 mm,1400 mm,N/A,810 mm,961 cc,2,80 bhp @ 6500 rpm,999.99 Nm @ 90 rpm,2,fuel-injection ,Self Start ,5 Gears,17 inches,MF 
+Triumph Scrambler 1200,11.49 Lakh,20.4 Kmpl,225 kg,2285 mm,840 mm,1200 mm,1530 mm,N/A,840 mm,1200 cc,2,90 bhp @ 7400 rpm,110 Nm @ 3950 rpm,4,Liquid Cooled ,Self Start ,6 Gears,17 inches,N/A
+BMW K 1600 GTL,31.15 Lakh,13 Kmpl,332 kg,2489 mm,1000 mm,1465 mm,1680 mm,146 mm,750 mm,1649 cc,6,158 bhp @ 7750 rpm,175 Nm @ 5250 rpm,N/A,Fuel Injection ,Self Start ,6 Gears,17 inches,"12V/19Ah, maintenance free "
+Suzuki V-Strom 1000,14.25 Lakh,66 Kmpl,228 kg,2285 mm,865 mm,1410 mm,1555 mm,165 mm,850 mm,1037 cc,2,99 bhp @ 8000 rpm,103 Nm @ 4000 rpm,4,Carburetor ,Self Start ,6 Gears,19 inches,Dry 
+Evolet Pony,"42,798 ",60 Km/Full Charge,95 kg,1800 mm,550 mm,780 mm,N/A,160 mm,750 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,48V/24Ah 
+Ducati Multistrada 1200,16.23 Lakh,18 Kmpl,232 kg,2200 mm,N/A,N/A,1530 mm,N/A,825 mm,1198.4 cc,2,150 bhp @ 9500 rpm,128 Nm @ 7500 rpm,4,Bosch Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+SWM Superdual T,7.21 Lakh,N/A,169 kg,2240 mm,905 mm,1240 mm,1510 mm,180 mm,N/A,600 cc,1,54 bhp @  rpm,53.5 Nm @  rpm,4,Electronic Fuel Injection ,Electric Start ,6 Gears,17 inches,N/A
+BMW R 1200 RS,16.59 Lakh,20 Kmpl,236 kg,2202 mm,925 mm,1250 mm,1527 mm,N/A,820 mm,1170 cc,2,123 bhp @ 7750 rpm,125 Nm @ 6500 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,17 inches,"12V / 12Ah, maintenance-free "
+Indian Springfield,35.48 Lakh,14 Kmpl,391 kg,2583 mm,990 mm,1442 mm,1701 mm,142 mm,660 mm,1811 cc,2,100 bhp @ 8000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection  ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Crayon Motors Envy,"57,071 ",60 Km/Full Charge,100 kg,1880 mm,710 mm,1120 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,48V 
+Suzuki GSX S1000F,13.46 Lakh,20 Kmpl,214 kg,2115 mm,795 mm,1180 mm,1460 mm,140 mm,810 mm,999 cc,4,148 bhp @ 10000 rpm,108 Nm @ 9500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Lohia Omastar,"43,702 ",60 Km/Full Charge,66 kg,1800 mm,660 mm,1030 mm,1280 mm,160 mm,770 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16 inches,Lithium ion & 20 Ah 
+Polarity Sport,"43,329 ",80 Km/Full Charge,55 kg,1112 mm,813 mm,860 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,40V/10Ah 
+Harley-Davidson Street Glide Special,32.46 Lakh,15 Kmpl,361 kg,2425 mm,970 mm,1340 mm,1625 mm,125 mm,685 mm,1745 cc,2,65 bhp @ 5500 rpm,150 Nm @ 3250 rpm,2,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,19 inches,"12V, MF "
+Harley-Davidson Road Glide Special,34.94 Lakh,15 Kmpl,372 kg,2430 mm,N/A,N/A,1625 mm,125 mm,685 mm,1745 cc,2,N/A,150 Nm @ 3250 rpm,4,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,19 inches,Dry 
+Indian Chieftain,33.9 Lakh,20 Kmpl,389 kg,2571 mm,1000 mm,1388 mm,1668 mm,142 mm,660 mm,1811 cc,2,100 bhp @ 3000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Suzuki RM-Z450,8.81 Lakh,25 Kmpl,112 kg,2175 mm,835 mm,1260 mm,1480 mm,330 mm,960 mm,449 cc,1,N/A,N/A,N/A,Fuel Injection ,Self Start ,5 Gears,N/A,N/A
+MV Agusta Brutale 1090,21.02 Lakh,15 Kmpl,183 kg,2100 mm,775 mm,825 mm,1438 mm,140 mm,830 mm,1078 cc,4,144 bhp @ 10300 rpm,112 Nm @ 8100 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,12V - 8.6Ah 
+Gemopai Astrid Lite,"84,787 ",80 Km/Full Charge,96 kg,1725 mm,695 mm,1080 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,60V/20AH 
+MV Agusta Turismo Veloce 800,20.81 Lakh,17 Kmpl,191 kg,2160 mm,875 mm,1160 mm,N/A,N/A,N/A,798 cc,3,110 bhp @ 10150 rpm,80 Nm @ 7100 rpm,N/A,Fuel Injection ,Electric ,6 Gears,N/A,N/A
+22Kymco Flow,"82,566 ",160 Km/Full Charge,85 kg,1150 mm,1800 mm,780 mm,N/A,155 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,Maintenance Free 
+Kawasaki W800 Street,7.38 Lakh,14 Kmpl,221 kg,2135 mm,925 mm,1120 mm,1465 mm,130 mm,770 mm,773 cc,2,47.3 bhp @ 6000 rpm,62.9 Nm @ 4800 rpm,4,Fuel Injection ,Self Start ,5 Gears,18 inches,N/A
+Indian Chief Vintage,26.83 Lakh,20 Kmpl,379 kg,2634 mm,1000 mm,1490 mm,1730 mm,140 mm,660 mm,1811 cc,2,100 bhp @ 3000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Triumph Thruxton R,12.63 Lakh,21 Kmpl,203 kg,2150 mm,745 mm,1030 mm,1415 mm,N/A,810 mm,1200 cc,2,96 bhp @ 6750 rpm,112 Nm @ 4950 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Moto Guzzi V9 Bobber,14.79 Lakh,18 Kmpl,199 kg,2185 mm,840 mm,1160 mm,1465 mm,N/A,780 mm,850 cc,2,55 bhp @ 6250 rpm,62 Nm @ 3000 rpm,2,Electronic Injection ,Self Start ,6 Gears,16 inches,12V - 18 Ah 
+Norton Commando 961 Sport MK II,22.19 Lakh,N/A,190 kg,2200 mm,660 mm,813 mm,1400 mm,N/A,810 mm,961 cc,2,6500 bhp @ 80 rpm,999.99 Nm @ 90 rpm,4,Crank fired electronic fuel-injection ,Self Start ,5 Gears,36 inches,N/A
+Moto Guzzi Eldorado,23.67 Lakh,14 Kmpl,314 kg,2445 mm,940 mm,1460 mm,1695 mm,165 mm,740 mm,1380 cc,2,96 bhp @ 6500 rpm,120 Nm @ 2750 rpm,4,Electronic Multipoint Sequential Injection ,Self Start ,6 Gears,16 inches,12V - 18 Ah 
+Li-ions Elektrik Spock,"69,757 ",130 Km/Full Charge,90 kg,1930 mm,770 mm,1260 mm,1350 mm,200 mm,760 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,220V/4Ah 
+Moto Guzzi Audace,23.14 Lakh,15 Kmpl,299 kg,2455 mm,920 mm,1145 mm,1695 mm,165 mm,740 mm,1380 cc,2,96 bhp @ 6500 rpm,121 Nm @ 3000 rpm,4,Electronic Multipoint Sequential Injection ,Self Start ,6 Gears,18 inches,12V - 18 Ah 
+Evolet Derby,"50,198 ",60 Km/Full Charge,102 kg,1800 mm,550 mm,780 mm,N/A,160 mm,750 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,60V/30Ah 
+BMW R 1250 RT,23.95 Lakh,21 Kmpl,279 kg,2222 mm,985 mm,1416 mm,1485 mm,N/A,805 mm,1254 cc,2,134 bhp @ 7750 rpm,143 Nm @ 6250 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,17 inches,"12 V / 12 Ah, maintenance-free "
+Ampere Magnus,"50,429 ",45 Km/Full Charge,94 kg,1880 mm,710 mm,1190 mm,1415 mm,150 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,60 V/ 20 Ah 
+Kawasaki KLX 450R,9 Lakh,23 Kmpl,126 kg,2175 mm,820 mm,1250 mm,1480 mm,315 mm,935 mm,449 cc,1,N/A,N/A,4,Carburettor: Keihin FCR-MX40 ,Electric & Kick ,5 Gears,N/A,N/A
+Indian Chieftain Elite,40.25 Lakh,18 Kmpl,388 kg,2506 mm,1000 mm,1448 mm,1668 mm,142 mm,660 mm,1811 cc,2,73 bhp @  rpm,N/A,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+BMW R 1250 R,17.02 Lakh,21 Kmpl,239 kg,2165 mm,880 mm,1300 mm,N/A,N/A,N/A,1254 cc,2,136 bhp @ 7750 rpm,105 Nm @ 6250 rpm,4,Fuel Injection ,Electric Start ,6 Gears,17 inches,N/A
+Suzuki GSX S1000,12.98 Lakh,20 Kmpl,209 kg,2115 mm,795 mm,1080 mm,1460 mm,140 mm,810 mm,999 cc,4,148 bhp @ 10000 rpm,108 Nm @ 9500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Dry 
+Harley-Davidson Heritage Softail Classic,20.88 Lakh,15 Kmpl,316 kg,2410 mm,955 mm,1048 mm,1630 mm,120 mm,685 mm,1745 cc,2,65 bhp @ 5500 rpm,144 Nm @ 3000 rpm,4,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Indian Chief Dark Horse,19.93 Lakh,20 Kmpl,357 kg,2630 mm,1000 mm,1176 mm,1730 mm,140 mm,660 mm,1811 cc,2,100 bhp @ 3000 rpm,138.9 Nm @ 2600 rpm,4,Closed Loop Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Evolet Polo,"48,084 ",60 Km/Full Charge,95 kg,1800 mm,550 mm,780 mm,N/A,160 mm,750 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,48V/24Ah 
+Harley-Davidson Softail Deluxe,19.76 Lakh,15 Kmpl,316 kg,2416 mm,955 mm,1048 mm,1630 mm,114 mm,658 mm,1745 cc,2,N/A,148 Nm @ 3000 rpm,4,Electronic Sequential Port Fuel Injection (ESPFI) ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Triumph Bonneville T120,10.53 Lakh,18 Kmpl,224 kg,2115 mm,785 mm,1125 mm,1445 mm,140 mm,785 mm,1200 cc,2,79 bhp @ 6550 rpm,105 Nm @ 3100 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Dry 
+Avan Motors Xero Plus,"50,729 ",110 Km/Full Charge,62 kg,1800 mm,680 mm,1080 mm,N/A,160 mm,774 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Kawasaki Ninja H2 SX,24.37 Lakh,15 Kmpl,256 kg,2135 mm,775 mm,1205 mm,1480 mm,130 mm,835 mm,998 cc,4,197 bhp @ 11000 rpm,137.3 Nm @ 9500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+MV Agusta F4 RR,38.83 Lakh,15 Kmpl,190 kg,2115 mm,750 mm,N/A,1430 mm,115 mm,830 mm,998 cc,4,201 bhp @ 13600 rpm,111 Nm @ 9600 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,12V - 8.6Ah 
+Ducati Scrambler 1100,12.61 Lakh,19.2 Kmpl,189 kg,2190 mm,895 mm,1330 mm,1514 mm,N/A,810 mm,1079 cc,2,85 bhp @ 7500 rpm,88 Nm @ 4750 rpm,2,Electronic fuel injection ,Self Start ,6 Gears,18 inches,N/A
+Honda CB1000R Plus,15.45 Lakh,18 Kmpl,213 kg,2120 mm,789 mm,1090 mm,1455 mm,135 mm,830 mm,998 cc,4,143 bhp @ 10500 rpm,104 Nm @ 8250 rpm,4,Carburation ,Electric ,6 Gears,N/A,12V/8.6AH 
+BGauss A2,"58,099 ",110 Km/Full Charge,88 kg,1747 mm,890 mm,1285 mm,N/A,140 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,60 V 
+CFMoto 650NK,4.35 Lakh,21 Kmpl,206 kg,2114 mm,757 mm,1100 mm,1415 mm,150 mm,815 mm,649 cc,2,60 bhp @ 9000 rpm,56 Nm @ 7000 rpm,8,EFI ,Self Start ,6 Gears,17 inches,N/A
+Okinawa Ridge Plus,"69,258 ",100 Km/Full Charge,96 kg,1725 mm,695 mm,1080 mm,N/A,160 mm,774 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,60V/24Ah 
+Kawasaki Ninja H2 SX SE,29.98 Lakh,15 Kmpl,260 kg,2135 mm,775 mm,1260 mm,1480 mm,130 mm,835 mm,998 cc,4,197 bhp @ 11000 rpm,137.3 Nm @ 9500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Okinawa R30,"64,141 ",60 Km/Full Charge,150 kg,1970 mm,745 mm,1145 mm,N/A,N/A,735 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Kawasaki Versys 650,7.17 Lakh,20 Kmpl,216 kg,2165 mm,840 mm,1400 mm,1415 mm,170 mm,840 mm,649 cc,2,65 bhp @ 8500 rpm,61 Nm @ 7000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+BMW R nineT Scrambler,16.97 Lakh,20 Kmpl,220 kg,2175 mm,880 mm,1330 mm,1522 mm,N/A,820 mm,1197 cc,2,108 bhp @ 7750 rpm,116 Nm @ 6000 rpm,4,Electronic intake pipe injection ,Self Start ,6 Gears,19 inches,"12V / 14Ah, Maintenance Free "
+Mahindra Gusto 125,"64,741 ",63.7 Kmpl,123 kg,1825 mm,711 mm,1188 mm,1275 mm,165 mm,770 mm,124.6 cc,1,8.5 bhp @ 7000 rpm,10 Nm @ 5500 rpm,2,Carburettor ,Self / Kick Start ,N/A,12 inches,"6AH, VRLA "
+BMW R 1250 GS Adventure,19.45 Lakh,21 Kmpl,268 kg,2270 mm,980 mm,1460 mm,1504 mm,N/A,890 mm,1254 cc,4,134 bhp @ 7750 rpm,143 Nm @ 6250 rpm,N/A,Electronic intake pipe injection ,Electric Start ,6 Gears,17 inches,"12 V / 11.8 Ah, maintenance-free "
+Okinawa Ridge,"48,514 ",80 Km/Full Charge,96 kg,1725 mm,695 mm,1080 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10 inches,60V/24Ah 
+Mahindra Gusto,"57,192 ",63.7 Kmpl,120 kg,1825 mm,697 mm,1188 mm,1275 mm,165 mm,770 mm,109.6 cc,1,8 bhp @ 7500 rpm,9 Nm @ 5500 rpm,2,Carburetor ,Self / Kick Start ,N/A,12 inches,"4Ah, VRLA "
+Aprilia Storm 125,"93,251 ",40 Kmpl,122 kg,1985 mm,703 mm,1166 mm,N/A,160 mm,775 mm,124.5 cc,1,9.4 bhp @ 7250 rpm,9.9 Nm @ 6250 rpm,3,Fuel Injection ,Self Start ,N/A,N/A,Maintenance Free 
+Triumph Tiger 800,12.83 Lakh,27.4 Kmpl,199 kg,2215 mm,795 mm,1350 mm,1530 mm,203 mm,810 mm,800 cc,3,94 bhp @ 9500 rpm,78.8 Nm @ 8050 rpm,4,Multipoint Sequential Electronic Fuel Injection ,Self Start ,6 Gears,19 inches,Maintenance Free 
+Ducati 959 Panigale,15.56 Lakh,18 Kmpl,200 kg,2056 mm,810 mm,1115 mm,1431 mm,N/A,830 mm,955 cc,2,150 bhp @ 10500 rpm,102 Nm @ 9000 rpm,4,Mitsubishi Electronic Fuel Injection System ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ampere Reo,"44,837 ",45 Km/Full Charge,88 kg,1730 mm,660 mm,1200 mm,1334 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48 V/ 20 Ah 
+Revolt RV300,1.18 Lakh,180 Km/Full Charge,101 kg,2156 mm,813 mm,1112 mm,1320 mm,225 mm,826 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17 inches,2.7 KWh 
+Honda CBR650R,8.28 Lakh,25 Kmpl,210 kg,2135 mm,749 mm,1149 mm,1449 mm,132 mm,810 mm,649 cc,4,85.9 bhp @ 11500 rpm,60.1 Nm @ 8000 rpm,16,Fuel Injection ,Self start ,6 Gears,17 inches,12V/8.6Ah 
+Kawasaki Ninja ZX-10RR,17.99 Lakh,15 Kmpl,206 kg,2090 mm,740 mm,1145 mm,1440 mm,145 mm,835 mm,998 cc,4,197 bhp @ 13000 rpm,113.5 Nm @ 11500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Kawasaki Vulcan S,6.11 Lakh,23 Kmpl,235 kg,2310 mm,855 mm,1090 mm,1575 mm,130 mm,705 mm,649 cc,2,60 bhp @ 7500 rpm,63.4 Nm @ 6600 rpm,4,Fuel Injection ,Self Start ,6 Gears,18 inches,Maintenance Free 
+Honda Gold Wing,29.56 Lakh,14 Kmpl,379 kg,2575 mm,905 mm,1430 mm,1695 mm,130 mm,745 mm,1833 cc,6,125 bhp @ 5500 rpm,170 Nm @ 4500 rpm,4,FI Electronic Fuel Injection ,Integrated Starter Generator ,7 Gears,18 inches,12V/20AH 
+Hero Maestro Edge 125,"76,176 ",49 Kmpl,110 kg,1843 mm,718 mm,1188 mm,1261 mm,155 mm,775 mm,124.6 cc,1,9.1 bhp @ 7000 rpm,10.2 Nm @ 5000 rpm,1,Fuel Injection ,Self / Kick Start ,N/A,10 inches,12 V - 4Ah (MF Batttery) 
+Aprilia SR 150,"85,571 ",40 Kmpl,122 kg,1985 mm,703 mm,1166 mm,N/A,N/A,775 mm,154.8 cc,1,10.4 bhp @ 6750 rpm,11.4 Nm @ 5000 rpm,3,Carburetor ,Self / Kick Start ,N/A,14 inches,Maintenance Free 
+Kawasaki Ninja H2,36.93 Lakh,15 Kmpl,238 kg,2085 mm,770 mm,1125 mm,1455 mm,130 mm,825 mm,998 cc,4,197 bhp @ 11000 rpm,133.5 Nm @ 10500 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Ather 450,1.25 Lakh,75 Km/Full Charge,118 kg,1800 mm,700 mm,1250 mm,1278 mm,160 mm,765 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 inches,Lithium-ion 
+Kawasaki Z250,3.27 Lakh,26 Kmpl,168 kg,2010 mm,750 mm,1025 mm,1400 mm,145 mm,785 mm,249 cc,2,32 bhp @ 11000 rpm,21 Nm @ 10000 rpm,4,Fuel injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Indian Scout Bobber,12.71 Lakh,14 Kmpl,245 kg,2276 mm,926 mm,1154 mm,1562 mm,123 mm,649 mm,1133 cc,2,94 bhp @ 8000 rpm,97 Nm @ 5600 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,16 inches,Maintenance Free 
+Hero Electric Optima,"45,199 ",65 Km/Full Charge,82 kg,1970 mm,745 mm,1145 mm,810 mm,165 mm,774 mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16 inches,48V/20Ah 
+Bajaj Pulsar 220F,1.31 Lakh,40 Kmpl,155 kg,2035 mm,750 mm,1165 mm,1350 mm,165 mm,795 mm,220 cc,1,20.12 bhp @ 8500 rpm,18.55 Nm @ 7000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,12 V Full DC 
+Hero Xtreme 200R,"96,075 ",39.9 Kmpl,148 kg,2062 mm,778 mm,1072 mm,1338 mm,165 mm,795 mm,199.6 cc,1,18.1 bhp @ 8000 rpm,17.1 Nm @ 6500 rpm,2,CV Carburetor (Venturi dia.32) ,Self / Kick Start ,5 Gears,17 inches,12 V - 4 Ah (MF Battery) 
+Ducati Panigale V4,21.87 Lakh,14.5 Kmpl,198 kg,N/A,N/A,N/A,1469 mm,N/A,830 mm,1103 cc,4,211 bhp @ 13000 rpm,124 Nm @ 10000 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Bajaj Avenger Cruise 220,1.3 Lakh,40 Kmpl,159 kg,2210 mm,806 mm,1321 mm,1490 mm,169 mm,725 mm,220 cc,1,18.76 bhp @ 8400 rpm,17.55 Nm @ 7000 rpm,2,Fuel Injection ,Self Start ,5 Gears,17 inches,"12V, 9Ah, MF "
+Hero Xtreme Sports,"84,442 ",50 Kmpl,146 kg,2100 mm,780 mm,1080 mm,1325 mm,163 mm,800 mm,149.2 cc,1,15.6 bhp @ 8500 rpm,13.5 Nm @ 7000 rpm,2,CV Type With Carburettor Controlled Variable Ignition ,Self / Kick Start ,5 Gears,18 inches,"12 V - 4 Ah, MF Battery "
+Hero HF Dawn,"40,493 ",72 Kmpl,105 kg,1965 mm,720 mm,1045 mm,1235 mm,165 mm,805 mm,97.2 cc,1,8.24 bhp @ 8000 rpm,8.05 Nm @ 5000 rpm,2,Carburetor ,Kick Start ,4 Gears,18 inches,12 V -2.5 Ah 
+Royal Enfield Himalayan,2.02 Lakh,45 Kmpl,191 kg,2190 mm,840 mm,1360 mm,1465 mm,220 mm,800 mm,411 cc,1,24.3 bhp @ 6500 rpm,32 Nm @ 4500 rpm,2,Digital Electronic Ignition ,Self Start ,5 Gears,21 inches,"12 volt, 8 AH MF "
+Suzuki Burgman Street 125,"88,679 ",53.5 Kmpl,110 kg,1880 mm,715 mm,1140 mm,1265 mm,160 mm,780 mm,124 cc,1,8.5 bhp @ 6750 rpm,10 Nm @ 5500 rpm,2,Fuel Injected ,Self / Kick Start ,N/A,12 inches,"Maintenance Free 12V, 3Ah "
+Suzuki Hayabusa,14.69 Lakh,11 Kmpl,268 kg,2190 mm,735 mm,1165 mm,1480 mm,120 mm,805 mm,1340 cc,4,197 bhp @ 9500 rpm,155 Nm @ 7200 rpm,4,Electronic Fuel Injection ,Self Start ,6 Gears,17 inches,Maintenance Free 
+Hero Maestro Edge,"67,419 ",65 Kmpl,112 kg,1843 mm,715 mm,1188 mm,1261 mm,155 mm,775 mm,110.9 cc,1,8 bhp @ 7500 rpm,8.75 Nm @ 5500 rpm,2,Fuel Injection ,Self / Kick Start ,N/A,12 inches,12V - 4Ah ETZ5 MF Battery 
+Hero Pleasure Plus 110,"61,772 ",69 Kmpl,104 kg,1769 mm,704 mm,1161 mm,1238 mm,155 mm,N/A,110.9 cc,1,8 bhp @ 7000 rpm,8.7 Nm @ 5500 rpm,2,Fuel Injection ,Self Start / Kick Start ,N/A,N/A,12V-4AH ETZ-5 MF-Battery 
+Bajaj Pulsar NS160,1.14 Lakh,45 Kmpl,151 kg,2017 mm,803 mm,1060 mm,1372 mm,177 mm,805 mm,160.3 cc,1,17 bhp @ 9000 rpm,14.6 Nm @ 7250 rpm,2,Fuel Injection ,Kick / Self Start ,5 Gears,17 inches,12V Full DC MF 
+Hero Glamour 125,"75,806 ",60 Kmpl,126 kg,2023 mm,766 mm,1091 mm,1262 mm,159 mm,N/A,124.7 cc,1,11.4 bhp @ 7500 rpm,11 Nm @ 6500 rpm,2,Carburetor - CV Type ,Self Start ,4 Gears,18 inches,12V - 3Ah (MF4) Battery 
+TVS XL 100,"37,064 ",67 Kmpl,80 kg,2020 mm,750 mm,1110 mm,1215 mm,155 mm,770 mm,69.9 cc,1,4.3 bhp @ 6000 rpm,6.5 Nm @ 3500 rpm,2,Carburetor ,Kick Start ,N/A,16 inches,"12V, 90W "
+Hero Splendor Pro,"53,150 ",65 Kmpl,112 kg,1970 mm,720 mm,1040 mm,1230 mm,159 mm,785 mm,97.2 cc,1,8.24 bhp @ 8000 rpm,8.05 Nm @ 5000 rpm,2,Carburetor ,Kick Start ,4 Gears,18 inches,12 V 3 Ah ( Self )- MF Battery 
+JAWA Perak,2.05 Lakh,35 Kmpl,175 kg,2122 mm,789 mm,1165 mm,1485 mm,N/A,750 mm,334 cc,1,30.22 bhp @  rpm,32.74 Nm @  rpm,4,Carburetor ,Self Start ,6 Gears,18 inches,N/A
+Bajaj Pulsar NS200,1.43 Lakh,35 Kmpl,152 kg,2017 mm,804 mm,1075 mm,1363 mm,167 mm,805 mm,199.5 cc,1,23.17 bhp @ 9500 rpm,18.3 Nm @ 8000 rpm,4,Fuel Injection ,Self Start ,6 Gears,17 inches,12V Full DC MF 
+Honda Activa 6G,"72,133 ",45 Kmpl,107 kg,1833 mm,697 mm,1156 mm,1260 mm,171 mm,N/A,109.5 cc,1,7.68 bhp @ 8000 rpm,8.79 Nm @ 5250 rpm,2,Carburetor ,Self/ Kick Start ,N/A,12 inches,3.0 Ah 
+Yamaha MT-15,1.52 Lakh,48 Kmpl,138 kg,2020 mm,800 mm,1070 mm,1335 mm,155 mm,810 mm,155 cc,1,19 bhp @ 10000 rpm,15 Nm @ 8500 rpm,1,Fuel Injection ,Self Start ,6 Gears,N/A,"12 V, 4.0 Ah(10 HR) "
+Honda CB Shine,"75,714 ",65 Kmpl,114 kg,2046 mm,737 mm,1116 mm,1285 mm,162 mm,791 mm,124.7 cc,1,10.5 bhp @ 7500 rpm,11 Nm @ 6000 rpm,2,Fuel Injection ,Self / Kick Start ,4 Gears,18 inches,12V 5.0Ah 
+Bajaj Pulsar 125,"76,963 ",62 Kmpl,140 kg,2055 mm,755 mm,1060 mm,1320 mm,N/A,N/A,124.4 cc,1,11.8 bhp @ 8500 rpm,11 Nm @ 6500 rpm,2,Fuel Injection ,Kick and Self Start ,5 Gears,17 inches,12V Full DC MF 
+Royal Enfield Classic 350,1.71 Lakh,37 Kmpl,192 kg,2160 mm,790 mm,1090 mm,1370 mm,135 mm,800 mm,346 cc,1,19.1 bhp @ 5250 rpm,28 Nm @ 4000 rpm,2,Electronic Fuel Injection ,Self / Kick Start ,5 Gears,19 inches,"12 Volt, 8 Ah "
