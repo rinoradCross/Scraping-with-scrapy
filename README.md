@@ -1,4 +1,4 @@
-# Web-scraping-using-Scrapy
+# Scraping-bike-specifications-using-Scrapy
 The goal is to scrape contents from a website using Scrapy and to save the scraped data in a csv file.
 This project contains python script to scrape bike's specifications from [carandbike](https://www.carandbike.com/new-bikes/models) website.
 
